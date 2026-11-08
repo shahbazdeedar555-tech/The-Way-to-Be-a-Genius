@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,15 +15,15 @@
 
 <body>
 
-<header class="site-header">
-    <div class="header-content">
+<header>
+    <div class="container">
         <h1>THE WAY TO BE A GENIUS</h1>
         <p>Learn • Understand • Speak • Improve</p>
-        <span class="author">By Deedar Shahbaz</span>
+        <span>By Deedar Shahbaz</span>
     </div>
 </header>
 
-<nav class="main-nav">
+<nav>
     <a href="#home">Home</a>
     <a href="#dictionary">Dictionary</a>
     <a href="#grammar">Grammar</a>
@@ -34,7 +33,7 @@
 
 <main class="container">
 
-    <section id="home" class="welcome-section">
+    <section id="home">
         <h2>Welcome to The Way to Be a Genius</h2>
 
         <p>
@@ -54,7 +53,7 @@
         </p>
     </section>
 
-    <section id="dictionary" class="book-section">
+    <section id="dictionary">
         <h2>English–Sindhi Dictionary</h2>
 
         <p>
@@ -65,19 +64,22 @@
         <div class="search-box">
             <input
                 type="search"
-                id="wordSearch"
+                id="searchInput"
                 placeholder="Search an English or Sindhi word..."
                 aria-label="Search dictionary"
             >
-            <button type="button" onclick="searchWord()">Search</button>
+
+            <button type="button" id="searchButton">
+                Search
+            </button>
         </div>
 
-        <div id="searchResults" aria-live="polite">
-            <p>Our first collection of 500 words is coming soon.</p>
+        <div id="results" aria-live="polite">
+            <p>Welcome to our English–Sindhi Dictionary.</p>
         </div>
     </section>
 
-    <section id="grammar" class="book-section">
+    <section id="grammar">
         <h2>English Grammar</h2>
 
         <p>
@@ -98,7 +100,7 @@
         </ul>
     </section>
 
-    <section id="patterns" class="book-section">
+    <section id="patterns">
         <h2>Native English Sentence Patterns</h2>
 
         <p>
@@ -108,21 +110,21 @@
 
         <div class="example">
             <p><strong>I feel like eating ice cream.</strong></p>
-            <p>مون کي آئس ڪريم کائڻ جو دل پيو چوي.</p>
+            <p dir="rtl">مون کي آئس ڪريم کائڻ جو دل پيو چوي.</p>
         </div>
 
         <div class="example">
             <p><strong>I can't help laughing.</strong></p>
-            <p>مان کلڻ کان سواءِ رهي نٿو سگهان.</p>
+            <p dir="rtl">مان کلڻ کان سواءِ رهي نٿو سگهان.</p>
         </div>
 
         <div class="example">
             <p><strong>It's no use arguing.</strong></p>
-            <p>بحث ڪرڻ جو ڪو فائدو ناهي.</p>
+            <p dir="rtl">بحث ڪرڻ جو ڪو فائدو ناهي.</p>
         </div>
     </section>
 
-    <section id="about" class="book-section">
+    <section id="about">
         <h2>About the Author</h2>
 
         <p>
@@ -143,7 +145,7 @@
 
 </main>
 
-<footer class="site-footer">
+<footer>
     <h3>THE WAY TO BE A GENIUS</h3>
     <p>Knowledge is the key to success.</p>
     <p>Written and developed by Deedar Shahbaz</p>
