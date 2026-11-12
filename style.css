@@ -288,3 +288,90 @@ footer p {
         font-size: 17px;
     }
 }
+
+
+
+/* =====================================
+   DICTIONARY READING IMPROVEMENTS
+===================================== */
+
+#results {
+    margin-top: 25px;
+}
+
+.word-entry {
+    padding: 22px;
+    margin: 20px 0;
+    background: #ffffff;
+    border: 1px solid var(--border);
+    border-left: 5px solid var(--accent);
+    border-radius: 9px;
+    box-shadow: var(--shadow);
+}
+
+.word-entry h3 {
+    font-size: 25px;
+    color: var(--primary);
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+}
+
+.word-entry p {
+    margin: 10px 0;
+    line-height: 1.9;
+}
+
+.word-entry .meaning,
+.word-entry .translation {
+    direction: rtl;
+    text-align: right;
+    font-size: 19px;
+    line-height: 2;
+    font-family: "Noto Naskh Arabic", "Noto Sans Arabic",
+                 "Times New Roman", serif;
+}
+
+.word-entry .meaning {
+    background: #f8f5ed;
+    padding: 10px 14px;
+    border-radius: 6px;
+}
+
+.word-entry .word-forms {
+    color: var(--secondary);
+    background: #f1f5f1;
+    padding: 9px 12px;
+    border-radius: 6px;
+}
+
+.word-entry .example {
+    background: #f0eee6;
+    padding: 12px;
+    border-left: 3px solid var(--secondary);
+    border-radius: 6px;
+}
+
+.word-entry .translation {
+    background: #faf7ef;
+    padding: 10px 14px;
+    border-radius: 6px;
+}
+
+/* Mobile dictionary layout */
+
+@media (max-width: 768px) {
+
+    .word-entry {
+        padding: 16px;
+        margin: 16px 0;
+    }
+
+    .word-entry h3 {
+        font-size: 23px;
+    }
+
+    .word-entry .meaning,
+    .word-entry .translation {
+        font-size: 18px;
+    }
+}
