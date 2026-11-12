@@ -375,3 +375,13 @@ footer p {
         font-size: 18px;
     }
 }
+
+/* Colourful Website Logo */
+.site-logo {
+    display: block;
+    width: 220px;
+    max-width: 85%;
+    height: auto;
+    margin: 15px auto;
+    border-radius: 12px;
+}
