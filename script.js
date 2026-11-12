@@ -58,9 +58,7 @@ function displayResults(words) {
 
         const meaning = document.createElement("p");
         meaning.className = "meaning";
-        meaning.textContent =
-
-           meaning: normalizeSindhi(item.sindhiMeaning),
+        meaning.textContent = normalizeSindhi(item.meaning);
         meaning.dir = "rtl";
 
         const wordForms = document.createElement("p");
@@ -75,9 +73,7 @@ function displayResults(words) {
 
         const translation = document.createElement("p");
         translation.className = "translation";
-        translation.textContent =
-
-           translation: normalizeSindhi(item.sindhiTranslation)
+        translation.textContent = normalizeSindhi(item.translation);
         translation.dir = "rtl";
 
         entry.append(
@@ -99,7 +95,7 @@ function searchDictionary() {
 
     if (!searchInput) return;
 
-    const query = searchInput.value
+    const query = normalizeSindhi(searchInput.value)
         .trim()
         .toLowerCase();
 
@@ -115,8 +111,8 @@ function searchDictionary() {
 
         return (
             item.word.toLowerCase().includes(query) ||
-            item.meaning.includes(query) ||
-            item.translation.includes(query) ||
+            normalizeSindhi(item.meaning).includes(query) ||
+            normalizeSindhi(item.translation).includes(query) ||
             item.pronunciation.toLowerCase().includes(query) ||
             item.partOfSpeech.toLowerCase().includes(query) ||
             String(item.wordForms).toLowerCase().includes(query)
