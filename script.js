@@ -5,6 +5,11 @@
    Author: Deedar Shahbaz
 ===================================== */
 
+// Normalize Sindhi Unicode text
+function normalizeSindhi(text) {
+    return (text || "").normalize("NFKC");
+}
+
 // Load dictionary entries from dictionary.js
 const dictionary = (window.dictionaryEntries || []).map(item => ({
     word: item.word || "",
@@ -54,7 +59,8 @@ function displayResults(words) {
         const meaning = document.createElement("p");
         meaning.className = "meaning";
         meaning.textContent =
-            "Sindhi Meaning: " + item.meaning;
+
+           meaning: normalizeSindhi(item.sindhiMeaning),
         meaning.dir = "rtl";
 
         const wordForms = document.createElement("p");
@@ -70,7 +76,8 @@ function displayResults(words) {
         const translation = document.createElement("p");
         translation.className = "translation";
         translation.textContent =
-            "Sindhi: " + item.translation;
+
+           translation: normalizeSindhi(item.sindhiTranslation)
         translation.dir = "rtl";
 
         entry.append(
