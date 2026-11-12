@@ -5,121 +5,16 @@
    Author: Deedar Shahbaz
 ===================================== */
 
-// Dictionary data
-const dictionary = [
-    {
-        word: "Ability",
-        pronunciation: "uh-BIL-uh-tee",
-        partOfSpeech: "Noun",
-        meaning: "قابليت، صلاحيت",
-        example: "She has the ability to learn quickly.",
-        translation: "هن ۾ جلدي سکڻ جي صلاحيت آهي."
-    },
-    {
-        word: "Accept",
-        pronunciation: "ak-SEPT",
-        partOfSpeech: "Verb",
-        meaning: "قبول ڪرڻ",
-        example: "I accept your invitation.",
-        translation: "مان توهان جي دعوت قبول ڪريان ٿو."
-    },
-    {
-        word: "Achieve",
-        pronunciation: "uh-CHEEV",
-        partOfSpeech: "Verb",
-        meaning: "حاصل ڪرڻ، ڪاميابي ماڻڻ",
-        example: "You can achieve your goals.",
-        translation: "توهان پنهنجا مقصد حاصل ڪري سگهو ٿا."
-    },
-    {
-        word: "Beautiful",
-        pronunciation: "BYOO-tuh-ful",
-        partOfSpeech: "Adjective",
-        meaning: "خوبصورت، سهڻو",
-        example: "This is a beautiful place.",
-        translation: "هي هڪ خوبصورت جڳهه آهي."
-    },
-    {
-        word: "Believe",
-        pronunciation: "bih-LEEV",
-        partOfSpeech: "Verb",
-        meaning: "يقين ڪرڻ، ڀروسو ڪرڻ",
-        example: "Believe in yourself.",
-        translation: "پنهنجي پاڻ تي يقين رکو."
-    },
-    {
-        word: "Brave",
-        pronunciation: "BRAYV",
-        partOfSpeech: "Adjective",
-        meaning: "بهادر، دلير",
-        example: "He is a brave man.",
-        translation: "هو هڪ بهادر ماڻهو آهي."
-    },
-    {
-        word: "Clever",
-        pronunciation: "KLEV-er",
-        partOfSpeech: "Adjective",
-        meaning: "هوشيار، ذهين",
-        example: "She is a clever student.",
-        translation: "هوءَ هڪ هوشيار شاگردياڻي آهي."
-    },
-    {
-        word: "Create",
-        pronunciation: "kree-AYT",
-        partOfSpeech: "Verb",
-        meaning: "ٺاهڻ، تخليق ڪرڻ",
-        example: "We create new ideas.",
-        translation: "اسان نوان خيال پيدا ڪريون ٿا."
-    },
-    {
-        word: "Dream",
-        pronunciation: "DREEM",
-        partOfSpeech: "Noun / Verb",
-        meaning: "خواب، خواب ڏسڻ",
-        example: "Never give up your dreams.",
-        translation: "پنهنجن خوابن تان ڪڏهن به هٿ نه کڻو."
-    },
-    {
-        word: "Education",
-        pronunciation: "ej-oo-KAY-shun",
-        partOfSpeech: "Noun",
-        meaning: "تعليم",
-        example: "Education changes our lives.",
-        translation: "تعليم اسان جون زندگيون بدلائي ٿي."
-    },
-    {
-        word: "Genius",
-        pronunciation: "JEEN-yus",
-        partOfSpeech: "Noun",
-        meaning: "غيرمعمولي ذهين ماڻهو، نابغه",
-        example: "A genius always loves learning.",
-        translation: "هڪ غيرمعمولي ذهين ماڻهو هميشه سکڻ سان محبت ڪندو آهي."
-    },
-    {
-        word: "Knowledge",
-        pronunciation: "NOL-ij",
-        partOfSpeech: "Noun",
-        meaning: "علم، ڄاڻ",
-        example: "Knowledge is power.",
-        translation: "علم طاقت آهي."
-    },
-    {
-        word: "Learn",
-        pronunciation: "LERN",
-        partOfSpeech: "Verb",
-        meaning: "سکڻ",
-        example: "I learn English every day.",
-        translation: "مان هر روز انگريزي سکندو آهيان."
-    },
-    {
-        word: "Success",
-        pronunciation: "suk-SES",
-        partOfSpeech: "Noun",
-        meaning: "ڪاميابي",
-        example: "Hard work leads to success.",
-        translation: "محنت ڪاميابي ڏانهن وٺي وڃي ٿي."
-    }
-];
+// Load dictionary entries from dictionary.js
+const dictionary = (window.dictionaryEntries || []).map(item => ({
+    word: item.word || "",
+    pronunciation: item.pronunciation || "",
+    partOfSpeech: item.partOfSpeech || "",
+    meaning: item.sindhiMeaning || "",
+    wordForms: item.wordForms || "",
+    example: item.example || "",
+    translation: item.sindhiTranslation || ""
+}));
 
 // Get page elements
 const searchInput = document.getElementById("searchInput");
@@ -162,12 +57,18 @@ function displayResults(words) {
             "Sindhi Meaning: " + item.meaning;
         meaning.dir = "rtl";
 
+        const wordForms = document.createElement("p");
+        wordForms.className = "word-forms";
+        wordForms.textContent =
+            "Word Forms: " + item.wordForms;
+
         const example = document.createElement("p");
         example.className = "example";
         example.textContent =
             "Example: " + item.example;
 
         const translation = document.createElement("p");
+        translation.className = "translation";
         translation.textContent =
             "Sindhi: " + item.translation;
         translation.dir = "rtl";
@@ -177,6 +78,7 @@ function displayResults(words) {
             pronunciation,
             part,
             meaning,
+            wordForms,
             example,
             translation
         );
@@ -206,7 +108,11 @@ function searchDictionary() {
 
         return (
             item.word.toLowerCase().includes(query) ||
-            item.meaning.includes(query)
+            item.meaning.includes(query) ||
+            item.translation.includes(query) ||
+            item.pronunciation.toLowerCase().includes(query) ||
+            item.partOfSpeech.toLowerCase().includes(query) ||
+            String(item.wordForms).toLowerCase().includes(query)
         );
     });
 
@@ -231,14 +137,15 @@ if (searchInput) {
     });
 }
 
-// Display all dictionary words initially
-displayResults(dictionary);
-
 // Alphabetical sorting
 dictionary.sort((a, b) =>
     a.word.localeCompare(b.word)
 );
 
+// Display all dictionary entries initially
+displayResults(dictionary);
+
 console.log(
-    "The Way to Be a Genius dictionary is ready."
+    "The Way to Be a Genius dictionary is ready. Entries:",
+    dictionary.length
 );
