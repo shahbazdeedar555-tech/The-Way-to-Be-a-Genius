@@ -275,9 +275,10 @@ const dictionaryEntries = [
     "partOfSpeech": "adjective",
     "sindhiMeaning": "ﺑڇڙو،ﺧﺮاب",
     "wordForms": "worse (comparative); worst (superlative); badly (adverb)",
-    "example": "Smoking is bad for your health.",
+"example": "Smoking is bad for your health.",
+    "sindhiTranslation": "سگريٽ نوشي صحت لاءِ خراب آهي."
+  },
     
-  },"sindhiTranslation": "سگريٽ نوشي صحت لاءِ خراب آهي.",
   {
     "id": 27,
     "word": "Bag",
@@ -296,8 +297,8 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﺳﻴڪڻ،اوون ۾ ﭘﭽﺎﺋڻ",
     "wordForms": "baked; baked; baking; baker (noun); bakery (noun)",
     "example": "My mother likes to bake bread.",
-    
-  },"sindhiTranslation": "منهنجي ماءُ کي ماني پچائڻ پسند آهي.",
+    "sindhiTranslation": "منهنجي ماءُ کي ماني پچائڻ پسند آهي."
+  },
   {
     "id": 29,
     "word": "Balance",
@@ -825,9 +826,7 @@ const dictionaryEntries = [
     "partOfSpeech": "verb; noun",
     "sindhiMeaning": "ﻧﺸﺎن، ﭘﺮکڻ؛ ﺟﺎچ،ﺟﺎﭼڻ",
     "wordForms": "checked; checked; checking; checker (noun)",
-    "example": "Please check your answers.",
-    "sindhiTranslation" مهرباني ڪري پنهنجا جواب جانچيو"
-  },
+    "sindhiTranslation": "مهرباني ڪري پنهنجا جواب جانچيو."
   {
     "id": 82,
     "word": "Cheer",
