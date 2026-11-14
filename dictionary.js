@@ -517,7 +517,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ء",
     "wordForms": "good → better → best (adjective); well → better → best (adverb)",
     "example": "Always try to do your best.",
-    "sindhiTranslation": "ﻫﻤﻴﺸﻪ ﭘﻨﻬﻨﺠﻲ ڀرپور ڪوشش ڪرڻ جي ڪوشش ڪﺮﻳﻮ."
+    "sindhiTranslation": "ﻫﻤﻴﺸﻪ ﭘﻨﻬﻨﺠﻲ ڀرپور ڪوشش ڪﺮﻳﻮ."
   },
   {
     "id": 51,
