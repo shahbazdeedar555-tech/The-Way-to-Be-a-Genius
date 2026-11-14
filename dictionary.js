@@ -154,7 +154,7 @@ const dictionaryEntries = [
     "partOfSpeech": "adjective; noun",
     "sindhiMeaning": "ﻋﻠﻤﻲ؛ اﺳﺘﺎد ﻳﺎ ﻋﺎﻟﻢ،ﺗﻌﻠﻴﻤﻲ",
     "wordForms": "academically (adverb); academy (noun)",
-    "example": "She is an excellent academic writer.",
+    "example": "She is an excellent academic.",
     "sindhiTranslation": "هوءَ هڪ بهترين علمي ليکڪا آهي.",
   },
   {
@@ -324,7 +324,7 @@ const dictionaryEntries = [
     "word": "Band",
     "pronunciation": "/bænd/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ﭘٽﻮ؛ ﮔڏ ٿﻴڻ،ء ﺟﻲ ﺟﻤﺎﻋﺖ",
+    "sindhiMeaning": "پٽو؛ موسيقارن جي جماعت، ٽولو",
     "wordForms": "banded; banded; banding",
     "example": "A music band performed at the event.",
     "sindhiTranslation": "موسيقيءَ جي جماعت تقريب ۾ پرفارم ڪيو.",
@@ -514,7 +514,7 @@ const dictionaryEntries = [
     "word": "Best",
     "pronunciation": "/best/",
     "partOfSpeech": "adjective; adverb; noun",
-    "sindhiMeaning": "ء",
+    "sindhiMeaning":سڀ کان سٺو",
     "wordForms": "good → better → best (adjective); well → better → best (adverb)",
     "example": "Always try to do your best.",
     "sindhiTranslation": "ﻫﻤﻴﺸﻪ ﭘﻨﻬﻨﺠﻲ ڀرپور ڪوشش ڪﺮﻳﻮ."
@@ -839,7 +839,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "خوشيءَ جو نعرو؛ نعرا هڻڻ، همٿائڻ",
     "wordForms": "cheered; cheered; cheering; cheerful (adjective)",
     "example": "The crowd cheered for the team.",
-    "sindhiTranslation": "ماڻهن جي ميڙ ٽيم لاءِ نعرا هنيا."
+    "sindhiTranslation": "ماڻهن جي ميڙ ٽيم لاءِ نعرا هنيا.",
   },
   {
     "id": 83,
@@ -876,7 +876,7 @@ const dictionaryEntries = [
     "word": "City",
     "pronunciation": "/ˈsɪti/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ء وارو ﻋﻼﺋﻘﻮ",
+    "sindhiMeaning": " وڏو آباديءَ وارو علائقو",
     "wordForms": "cities (plural); citywide (adjective/adverb)",
     "example": "Hyderabad is an important city of Sindh.",
     "sindhiTranslation": "ﺣﻴﺪرآﺑﺎد ﺳﻨڌ ﺟﻮ ﻫڪ اﻫﻢ ﺷﻬﺮ آﻫﻲ."
@@ -916,7 +916,7 @@ const dictionaryEntries = [
     "word": "Clearly",
     "pronunciation": "/ˈklɪrli/",
     "partOfSpeech": "adverb",
-    "sindhiMeaning": "واﺿﺢ ﻧﻤﻮﻧﻲ،ء ﻃﺮح",
+    "sindhiMeaning": "واﺿﺢ ﻧﻤﻮﻧﻲ، چِٽِيءَ ﻃﺮح",
     "wordForms": "clear (adjective); clarity (noun)",
     "example": "Please speak clearly.",
     "sindhiTranslation": "ﻣﻬﺮﺑﺎﻧﻲ ڪﺮي ﭼٽﻮ ڳﺎﻟﻬﺎﻳﻮ."
@@ -976,7 +976,7 @@ const dictionaryEntries = [
     "word": "Collect",
     "pronunciation": "/kəˈlekt/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "ء ﺣﺎﺻﻞ ڪﺮڻ",
+    "sindhiMeaning": " گڏ ڪرڻ، گڏ ڪري ﺣﺎﺻﻞ ڪﺮڻ",
     "wordForms": "collected; collected; collecting; collection (noun); collector (noun)",
     "example": "I collect old books.",
     "sindhiTranslation": "ﻣﺎن ﭘﺮاڻا ڪﺘﺎب ﮔڏ ڪﻨﺪو آﻫﻴﺎن."
@@ -1016,7 +1016,7 @@ const dictionaryEntries = [
     "word": "Depend",
     "pronunciation": "/dɪˈpend/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "داروﻣﺪار رکڻ،ڀﺎڙڻ",
+    "sindhiMeaning": "ڀاڙڻ، دارومدار رکڻ",
     "wordForms": "depended; depended; depending; dependence (noun); dependent (adjective)",
     "example": "Children depend on their parents.",
     "sindhiTranslation": "ٻﺎر ﭘﻨﻬﻨﺠﻦ واﻟﺪﻳﻦ ﺗﻲ ڀﺎڙﻳﻦ ٿﺎ."
