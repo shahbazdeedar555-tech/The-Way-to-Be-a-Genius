@@ -46,9 +46,7 @@ const dictionaryEntries = [
     "example": "We talked about our school.",
     "sindhiTranslation": "اﺳﺎن ﭘﻨﻬﻨﺠﻲ اﺳڪﻮل ﺑﺎﺑﺖ ڳﺎﻟﻬﺎﻳﻮ."
   },
-  {
-    
-    
+  
     {
     "id": 4,
     "word": "Above",
@@ -821,26 +819,27 @@ const dictionaryEntries = [
     "example": "This shop sells cheap clothes.",
     "sindhiTranslation": "ﻫﻲ دڪﺎن ﺳﺴﺘﺎ ڪﭙڙا وڪڻي ٿﻮ."
   },
-  {
+  
 
+   {
+    "id": 81,
+    "word": "Check",
+    "pronunciation": "/tʃek/",
+    "partOfSpeech": "verb; noun",
+    "sindhiMeaning": "جانچڻ، پرکڻ؛ جاچ، نشان",
     "wordForms": "checked; checked; checking; checker (noun)",
     "example": "Please check your answers.",
     "sindhiTranslation": "مهرباني ڪري پنهنجا جواب جانچيو."
   },
   {
     "id": 82,
-    "word": "Check",
-    "pronunciation": "/tʃek/",
-    "partOfSpeech": "verb; noun",
-    "sindhiMeaning": "ﻧﺸﺎن، ﭘﺮکڻ؛ ﺟﺎچ،ﺟﺎﭼڻ",
-    
     "word": "Cheer",
     "pronunciation": "/tʃɪr/",
     "partOfSpeech": "verb; noun",
-    "sindhiMeaning": "ء ﺟﻮ ﻧﻌﺮو",
+    "sindhiMeaning": "خوشيءَ جو نعرو؛ نعرا هڻڻ، همٿائڻ",
     "wordForms": "cheered; cheered; cheering; cheerful (adjective)",
     "example": "The crowd cheered for the team.",
-    "sindhiTranslation": "ماڻهن جي ميڙ ٽيم لاءِ ﻧﻌﺮا ﻫﻨﻴﺎ"
+    "sindhiTranslation": "ماڻهن جي ميڙ ٽيم لاءِ نعرا هنيا."
   },
   {
     "id": 83,
