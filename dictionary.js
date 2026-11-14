@@ -61,10 +61,10 @@ const dictionaryEntries = [
     "word": "Abroad",
     "pronunciation": "/əˈbrɔːd/",
     "partOfSpeech": "adverb",
-    "sindhiMeaning": "ٻﺎﻫﺮﻳﻦ ﻣﻠڪ ۾،ﭘﺮڏﻳﻬﻪ ۾",
+    
     "wordForms": "—",
     "example": "My brother lives abroad.",
-    "sindhiTranslation": "ء ﭘﺮڏﻳﻬﻪ ۾ رﻫﻲ ٿﻮ"
+    sindhiTranslation: "منهنجو ڀاءُ پرڏيهه ۾ رهي ٿو.",
   },
   {
     "id": 6,
