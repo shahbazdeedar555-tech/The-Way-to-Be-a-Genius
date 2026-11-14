@@ -48,6 +48,7 @@ const dictionaryEntries = [
   },
   {
     
+    
     {
     "id": 4,
     "word": "Above",
@@ -57,7 +58,7 @@ const dictionaryEntries = [
     "wordForms": "—",
     "example": "The fan is above the table.",
     "sindhiTranslation": "ﭘکﻮ ﻣﻴﺰ ﺟﻲ ﻣٿﺎن آﻫﻲ."
-    
+  },
   {
     "id": 5,
     "word": "Abroad",
