@@ -132,10 +132,10 @@ const dictionaryEntries = [
     "word": "Absurd",
     "pronunciation": "/əbˈsɜːrd/",
     "partOfSpeech": "adjective",
-    "sindhiMeaning": "ﻏﻴﺮﻣﻌﻘﻮل، ﺑﻲ ُﺗڪﻮ،ﺑﻴﻮﻗﻮﻓﺎڻﻮ",
+    "sindhiMeaning" ، بي وقوفاڻُو،ﻏﻴﺮﻣﻌﻘﻮل، ﺑﻲ تُڪﻮ"
     "wordForms": "absurdly (adverb); absurdity (noun)",
     "example": "That is an absurd excuse.",
-    "sindhiTranslation": "اﻫﻮ ﻫڪ ﺑﻲ ُﺗڪﻮ ﺑﻬﺎﻧﻮ آﻫﻲ."
+    "sindhiTranslation": "اﻫﻮ ﻫڪ ﺑﻲ تُڪو ﺑﻬﺎﻧﻮ آﻫﻲ."
   },
   {
     "id": 13,
@@ -327,7 +327,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﭘٽﻮ؛ ﮔڏ ٿﻴڻ،ء ﺟﻲ ﺟﻤﺎﻋﺖ",
     "wordForms": "banded; banded; banding",
     "example": "A music band performed at the event.",
-    "sindhiTranslation": "موسيقيءَ جي ٽولي تقريب ۾ پرفارم ڪيو.",
+    "sindhiTranslation": "موسيقيءَ جي جماعت تقريب ۾ پرفارم ڪيو.",
   },
   {
     "id": 32,
@@ -464,7 +464,7 @@ const dictionaryEntries = [
     "word": "Before",
     "pronunciation": "/bɪˈfɔːr/",
     "partOfSpeech": "preposition; conjunction; adverb",
-    "sindhiMeaning": "ﭘﻬﺮﻳﻦ، کﺎن اڳ،اڳ",
+    "sindhiMeaning": ﭘﻬﺮﻳﻦ، کﺎن اڳ",
     "wordForms": "—",
     "example": "Wash your hands before eating.",
     "sindhiTranslation": "کﺎﺋڻ کﺎن اڳ ﭘﻨﻬﻨﺠﺎ ﻫٿ ڌوﺋﻮ."
@@ -577,7 +577,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "رد ڪﺮڻ،ﻣﻨﺴﻮخ ڪﺮڻ",
     "wordForms": "cancelled/canceled; cancelled/canceled; cancelling/canceling; cancellation (noun)",
     "example": "They had to cancel the meeting.",
-    "sindhiTranslation": "اﻧﻬﻦ کﻲ ﮔڏﺟﺎڻي ﻣﻨﺴﻮخ ڪﺮڻﻲ ﭘﺌﻲ."
+    "sindhiTranslation": "اﻧﻬﻦ کﻲ ﮔڏﺟﺎڻي ﻣﻨﺴﻮخ ڪﺮڻي ﭘﺌﻲ."
   },
   {
     "id": 57,
@@ -594,7 +594,7 @@ const dictionaryEntries = [
     "word": "Capital",
     "pronunciation": "/ˈkæpɪtəl/",
     "partOfSpeech": "noun; adjective",
-    "sindhiMeaning": "اﻫﻢ، ﺳﺮﻣﺎﻳﻮ؛ وڏو،ء ﺟﻮ ﺷﻬﺮ",
+    "sindhiMeaning": "  اﻫﻢ، ﺳﺮﻣﺎﻳﻮ؛ وڏو، ",
     "wordForms": "capitalise/capitalize (verb); capitalisation/capitalization (noun)",
     "example": "Karachi is not the capital of Pakistan.",
     "sindhiTranslation": "ڪراچي پاڪستان جو گاديءَ جو هَنڌ نہ آهي.",
@@ -677,7 +677,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ٻﻠﻲ",
     "wordForms": "cats (plural)",
     "example": "The cat is sleeping on the chair.",
-    "sindhiTranslation": "ٻلِي ڪُرسيءَ ﺗﻲ ﺳﻤﻬﻲ رﻫﻲ آ"
+    "sindhiTranslation": " ٻلِي ڪُرسيءَ ﺗﻲ ﺳﻤﻬﻲ رﻫﻲ آهي"
   },
   {
     "id": 67,
@@ -909,7 +909,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "واﺿﺢ؛ ﺻﺎف ڪﺮڻ، ﭼٽﻮ،ﺻﺎف",
     "wordForms": "cleared; cleared; clearing; clearly (adverb); clarity (noun)",
     "example": "Your explanation is clear.",
-    "sindhiTranslation": "ﺗﻨﻬﻨﺠﻲ وﺿﺎﺣﺖ واﺿﺢ آﻫﻲ."
+    "sindhiTranslation": "ﺗﻨﻬﻨﺠﻲ وﺿﺎﺣﺖ واﺿﺢ چِٽِي آﻫﻲ."
   },
   {
     "id": 90,
