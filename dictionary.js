@@ -327,7 +327,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﭘٽﻮ؛ ﮔڏ ٿﻴڻ،ء ﺟﻲ ﺟﻤﺎﻋﺖ",
     "wordForms": "banded; banded; banding",
     "example": "A music band performed at the event.",
-    "sindhiTranslation": "ء ﺟﻲ ٽﻮﻟﻲ ﭘﺮوﮔﺮام ڪﻴﻮ"
+    "sindhiTranslation": "موسيقيءَ جي ٽولي تقريب ۾ پرفارم ڪيو.",
   },
   {
     "id": 32,
