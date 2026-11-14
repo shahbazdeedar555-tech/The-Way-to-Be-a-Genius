@@ -21,14 +21,6 @@ const dictionary = (window.dictionaryEntries || []).map(item => ({
     example: item.example || "",
     translation: item.sindhiTranslation || ""
 }));
-    word: item.word || "",
-    pronunciation: item.pronunciation || "",
-    partOfSpeech: item.partOfSpeech || "",
-    meaning: item.sindhiMeaning || "",
-    wordForms: item.wordForms || "",
-    example: item.example || "",
-    translation: item.sindhiTranslation || ""
-}));
 
 // Get page elements
 const searchInput = document.getElementById("searchInput");
