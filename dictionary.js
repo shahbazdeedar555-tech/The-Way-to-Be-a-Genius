@@ -68,6 +68,7 @@ const dictionaryEntries = [
     "example": "My brother lives abroad.",
     "sindhiTranslation": "منهنجو ڀاءُ پرڏيهه ۾ رهي ٿو."
   },
+    {
     "id": 6,
     "word": "Absence",
     "pronunciation": "/ˈæbsəns/",
