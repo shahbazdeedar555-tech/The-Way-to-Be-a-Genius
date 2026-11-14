@@ -447,7 +447,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﺑڻﺠڻ،ٿﻴڻ",
     "wordForms": "became; become; becoming",
     "example": "She wants to become a teacher.",
-    "sindhiTranslation": "ء اﺳﺘﺎد ٿﻴڻ ﭼﺎﻫﻲ ٿﻲ"
+    "sindhiTranslation": "هوءَ استاد ٿيڻ چاهي ٿي.",
   },
   {
     "id": 44,
