@@ -297,8 +297,8 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﺳﻴڪڻ،اوون ۾ ﭘﭽﺎﺋڻ",
     "wordForms": "baked; baked; baking; baker (noun); bakery (noun)",
     "example": "My mother likes to bake bread.",
-    "sindhiTranslation": "ء کﻲ ﻣﺎﻧﻲ ﭘﭽﺎﺋڻ ﭘﺴﻨﺪ آﻫﻲ"
-  },
+    
+  },"sindhiTranslation": "منهنجي ماءُ کي ماني پچائڻ پسند آهي.",
   {
     "id": 29,
     "word": "Balance",
