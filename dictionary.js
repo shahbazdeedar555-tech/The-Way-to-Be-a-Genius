@@ -607,7 +607,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ڪﺎر،ﻣﻮٽﺮ",
     "wordForms": "cars (plural)",
     "example": "My father drives a car.",
-    "sindhiTranslation": "ء ڪﺎر ﻫﻼﺋﻲ ٿﻮ"
+   "sindhiTranslation": "منهنجو پيءُ ڪار هلائي ٿو.",
   },
   {
     "id": 60,
@@ -677,7 +677,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ٻﻠﻲ",
     "wordForms": "cats (plural)",
     "example": "The cat is sleeping on the chair.",
-    "sindhiTranslation": "ء ﺗﻲ ﺳﻤﻬﻲ رﻫﻲ آﻫﻲ"
+    "sindhiTranslation": "ٻلِي ڪُرسيءَ ﺗﻲ ﺳﻤﻬﻲ رﻫﻲ آ"
   },
   {
     "id": 67,
@@ -697,7 +697,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ڪﺎرڻ؛ ﺳﺒﺐ ﺑڻﺠڻ،ﺳﺒﺐ",
     "wordForms": "caused; caused; causing; causal (adjective)",
     "example": "What caused the problem?",
-    "sindhiTranslation": "ﻣﺴﺌﻠﻲ ﺟﻮ ﺳﺒﺐ ڇﺎ ﺑڻﻴﻮ؟"
+    "sindhiTranslation": "ﻣﺴﺌﻠﻲ ﺟﻮ ﺳﺒﺐ ڇا ﺑڻﻴﻮ؟"
   },
   {
     "id": 69,
@@ -707,7 +707,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﺧﻮﺷﻲ ﻣﻠﻬﺎﺋڻ،ﺟﺸﻦ ﻣﻠﻬﺎﺋڻ",
     "wordForms": "celebrated; celebrated; celebrating; celebration (noun)",
     "example": "We celebrate Independence Day on 14 August.",
-    "sindhiTranslation": "ء ﺟﻮ ڏﻳﻨﻬﻦ ﻣﻠﻬﺎﺋﻴﻨﺪا آﻫﻴﻮن"
+    "sindhiTranslation": "اسان چوڏهن آگسٽ تي آزاديءَ ﺟﻮ ڏﻳﻨﻬﻦ ﻣﻠﻬﺎﺋﻴﻨﺪا آﻫﻴﻮن"
   },
   {
     "id": 70,
@@ -737,7 +737,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﺳﺌﻮ ﺳﺎﻟﻦ ﺟﻮ ﻋﺮﺻﻮ،ﺻﺪي",
     "wordForms": "centuries (plural); centennial (adjective/noun)",
     "example": "We live in the twenty-first century.",
-    "sindhiTranslation": "ء ۾ رﻫﻮن ٿﺎ"
+    "sindhiTranslation": "اسان ايڪيهين صديءَ ۾ رﻫﻮن ٿﺎ"
   },
   {
     "id": 73,
@@ -767,7 +767,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ڪﺮﺳﻲ؛ ﺻﺪارت ڪﺮڻ",
     "wordForms": "chaired; chaired; chairing; chairman/chairperson (noun)",
     "example": "Please sit on this chair.",
-    "sindhiTranslation": "ء ﺗﻲ وﻳﻬﻮ"
+    "sindhiTranslation": "مهرباني ڪري ڪرسيءَ ﺗﻲ وﻳﻬﻮ"
   },
   {
     "id": 76,
@@ -817,7 +817,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﮔﻬٽ ﻗﻴﻤﺖ وارو،ﺳﺴﺘﻮ",
     "wordForms": "cheaper (comparative); cheapest (superlative); cheaply (adverb)",
     "example": "This shop sells cheap clothes.",
-    "sindhiTranslation": "ﻫﻲ دڪﺎن ﺳﺴﺘﺎ ڪﭙڙا وڪڻﻲ ٿﻮ."
+    "sindhiTranslation": "ﻫﻲ دڪﺎن ﺳﺴﺘﺎ ڪﭙڙا وڪڻي ٿﻮ."
   },
   {
     "id": 81,
@@ -827,7 +827,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﻧﺸﺎن، ﭘﺮکڻ؛ ﺟﺎچ،ﺟﺎﭼڻ",
     "wordForms": "checked; checked; checking; checker (noun)",
     "example": "Please check your answers.",
-    "sindhiTranslation": "ﻣﻬﺮﺑﺎﻧﻲ ڪﺮي ﭘﻨﻬﻨﺠﺎ ﺟﻮاب ﺟﺎﭼﻴﻮ."
+    "sindhiTranslation" مهرباني ڪري پنهنجا جواب جانچيو"
   },
   {
     "id": 82,
@@ -837,7 +837,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ء ﺟﻮ ﻧﻌﺮو",
     "wordForms": "cheered; cheered; cheering; cheerful (adjective)",
     "example": "The crowd cheered for the team.",
-    "sindhiTranslation": "ء ﺟﺎ ﻧﻌﺮا ﻫﻨﻴﺎ"
+    "sindhiTranslation": "ماڻهن جي ميڙ ٽيم لاءِ ﻧﻌﺮا ﻫﻨﻴﺎ"
   },
   {
     "id": 83,
@@ -917,7 +917,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "واﺿﺢ ﻧﻤﻮﻧﻲ،ء ﻃﺮح",
     "wordForms": "clear (adjective); clarity (noun)",
     "example": "Please speak clearly.",
-    "sindhiTranslation": "ﻣﻬﺮﺑﺎﻧﻲ ڪﺮي ﺻﺎف ۽ ﭼٽﻮ ڳﺎﻟﻬﺎﻳﻮ."
+    "sindhiTranslation": "ﻣﻬﺮﺑﺎﻧﻲ ڪﺮي ﭼٽﻮ ڳﺎﻟﻬﺎﻳﻮ."
   },
   {
     "id": 91,
@@ -967,7 +967,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "زڪﺎم، ﺳﺮد؛ ٿڌ،ٿڌو",
     "wordForms": "colder (comparative); coldest (superlative); coldly (adverb)",
     "example": "The water is too cold.",
-    "sindhiTranslation": "ﭘﺎڻﻲ ﺗﻤﺎم ﮔﻬڻﻮ ٿڌو آﻫﻲ."
+    "sindhiTranslation": "ﭘﺎڻﻲ ﺗﻤﺎم ﮔﻬڻو ٿڌو آﻫﻲ."
   },
   {
     "id": 96,
@@ -977,7 +977,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ء ﺣﺎﺻﻞ ڪﺮڻ",
     "wordForms": "collected; collected; collecting; collection (noun); collector (noun)",
     "example": "I collect old books.",
-    "sindhiTranslation": "ﻣﺎن ﭘﺮاڻﺎ ڪﺘﺎب ﮔڏ ڪﻨﺪو آﻫﻴﺎن."
+    "sindhiTranslation": "ﻣﺎن ﭘﺮاڻا ڪﺘﺎب ﮔڏ ڪﻨﺪو آﻫﻴﺎن."
   },
   {
     "id": 97,
