@@ -367,7 +367,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ٽﻮڪﺮي",
     "wordForms": "baskets (plural)",
     "example": "She put the apples in a basket.",
-    "sindhiTranslation": "ء ۾ رکﻴﺎ"
+    "sindhiTranslation": "هن صوف ٽوڪريءَ ۾ رکيا.",
   },
   {
     "id": 36,
