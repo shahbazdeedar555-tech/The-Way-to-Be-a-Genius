@@ -514,7 +514,7 @@ const dictionaryEntries = [
     "word": "Best",
     "pronunciation": "/best/",
     "partOfSpeech": "adjective; adverb; noun",
-    "sindhiMeaning":سڀ کان سٺو",
+    "sindhiMeaning": "بهترين، سڀ کان سٺو",
     "wordForms": "good → better → best (adjective); well → better → best (adverb)",
     "example": "Always try to do your best.",
     "sindhiTranslation": "ﻫﻤﻴﺸﻪ ﭘﻨﻬﻨﺠﻲ ڀرپور ڪوشش ڪﺮﻳﻮ."
