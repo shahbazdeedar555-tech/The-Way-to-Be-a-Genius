@@ -154,7 +154,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﻋﻠﻤﻲ؛ اﺳﺘﺎد ﻳﺎ ﻋﺎﻟﻢ،ﺗﻌﻠﻴﻤﻲ",
     "wordForms": "academically (adverb); academy (noun)",
     "example": "She is an excellent academic writer.",
-    "sindhiTranslation": "ء ﻫڪ ﺑﻬﺘﺮﻳﻦ ﻋﻠﻤﻲ ﻟﻴکڪﺎ آﻫﻲ"
+    "sindhiTranslation": "هوءَ هڪ بهترين علمي ليکڪا آهي.",
   },
   {
     "id": 15,
