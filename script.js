@@ -54,7 +54,16 @@ function displayResults(words) {
         entry.className = "word-entry";
 
         const heading = document.createElement("h3");
-        heading.textContent = item.word;
+
+const wordNumber = document.createElement("span");
+wordNumber.className = "word-number";
+wordNumber.textContent =
+    String(item.id).padStart(3, "0") + ". ";
+
+heading.append(
+    wordNumber,
+    document.createTextNode(item.word)
+);
 
         const pronunciation = document.createElement("p");
         pronunciation.className = "pronunciation";
