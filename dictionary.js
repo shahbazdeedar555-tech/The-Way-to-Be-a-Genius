@@ -174,7 +174,8 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﭘﻬﭻ؛ رﺳﺎﺋﻲ ﺣﺎﺻﻞ ڪﺮڻ،رﺳﺎﺋﻲ",
     "wordForms": "accessed; accessed; accessing; accessible (adjective)",
     "example": "Students have access to the library.",
-    "sindhiTranslation": "ء ﺗﺎﺋﻴﻦ رﺳﺎﺋﻲ آﻫﻲ"
+
+    "sindhiTranslation": "شاگردن کي لائبريريءَ تائين رسائي حاصل آهي.",
   },
   {
     "id": 17,
