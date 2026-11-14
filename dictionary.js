@@ -507,7 +507,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ڀﻼﺋﻲ؛ ﻓﺎﺋﺪو ﭘﻬﭽﺎﺋڻ،ﻓﺎﺋﺪو",
     "wordForms": "benefited/benefitted; benefited/benefitted; benefiting/benefitting; beneficial (adjective)",
     "example": "Exercise has many health benefits.",
-    "sindhiTranslation": "ء ڪﻴﺘﺮاﺋﻲ ﻓﺎﺋﺪا آﻫﻦ"
+    "sindhiTranslation": "ورزش جا صحت لاءِ ڪيترائي فائدا آهن.",
   },
   {
     "id": 50,
