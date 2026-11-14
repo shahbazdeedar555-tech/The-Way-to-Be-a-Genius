@@ -246,7 +246,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﻣﻮاﻓﻖ ٿﻴڻ،ﭘﺎڻ کﻲ ﺣﺎﻟﺘﻦ ﻣﻄﺎﺑﻖ ﺑﺪﻻﺋڻ",
     "wordForms": "adapted; adapted; adapting; adaptation (noun)",
     "example": "We must adapt to new situations.",
-    "sindhiTranslation": "اﺳﺎن کﻲ ﻧﻴﻦ ﺣﺎﻟﺘﻦ ﺳﺎن ﭘﺎڻ کﻲ ﻣﻮاﻓﻖ ﺑڻﺎﺋڻ ﮔﻬﺮﺟﻲ."
+    "sindhiTranslation": "اﺳﺎن کﻲ ﻧﻴﻦ ﺣﺎﻟﺘﻦ ﺳﺎن ﭘﺎڻ کﻲ ﻣﻮاﻓﻖ ﺑنائڻ ﮔﻬﺮﺟﻲ."
   },
   {
     "id": 24,
@@ -275,7 +275,7 @@ const dictionaryEntries = [
     "partOfSpeech": "adjective",
     "sindhiMeaning": "ﺑڇڙو،ﺧﺮاب",
     "wordForms": "worse (comparative); worst (superlative); badly (adverb)",
-"example": "Smoking is bad for your health.",
+"example": "Smoking is bad for health.",
     "sindhiTranslation": "سگريٽ نوشي صحت لاءِ خراب آهي."
   },
     
@@ -527,7 +527,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﻓﻮن، ﻓﻮن ڪﺮڻ؛ ﺳڏ،ﺳڏڻ",
     "wordForms": "called; called; calling",
     "example": "Please call me tomorrow.",
-    "sindhiTranslation": "ﻣﻬﺮﺑﺎﻧﻲ ڪﺮي ﻣﻮن کﻲ ﺳڀﺎڻﻲ ﻓﻮن ڪﺠﻮ."
+    "sindhiTranslation": "ﻣﻬﺮﺑﺎﻧﻲ ڪﺮي ﻣﻮن کﻲ ﺳڀﺎڻي ﻓﻮن ڪﺠﻮ."
   },
   {
     "id": 52,
@@ -577,7 +577,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "رد ڪﺮڻ،ﻣﻨﺴﻮخ ڪﺮڻ",
     "wordForms": "cancelled/canceled; cancelled/canceled; cancelling/canceling; cancellation (noun)",
     "example": "They had to cancel the meeting.",
-    "sindhiTranslation": "اﻧﻬﻦ کﻲ ﮔڏﺟﺎڻﻲ ﻣﻨﺴﻮخ ڪﺮڻﻲ ﭘﺌﻲ."
+    "sindhiTranslation": "اﻧﻬﻦ کﻲ ﮔڏﺟﺎڻي ﻣﻨﺴﻮخ ڪﺮڻﻲ ﭘﺌﻲ."
   },
   {
     "id": 57,
@@ -587,7 +587,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ٽﻮﭘﻲ؛ ڍڪڻ ﻳﺎ ﺣﺪ ﻣﻘﺮر ڪﺮڻ",
     "wordForms": "capped; capped; capping",
     "example": "He is wearing a blue cap.",
-    "sindhiTranslation": "ﻫﻦ ﻧﻴﺮي ٽﻮﭘﻲ ﭘﺎﺗﻲ آﻫﻲ."
+    "sindhiTranslation": "ﻫﻦ ﻧﻴﺮي ٽوﭘﻲ ﭘﺎﺗﻲ آﻫﻲ."
   },
   {
     "id": 58,
@@ -647,7 +647,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "کڻﻲ وڃڻ،کڻڻ",
     "wordForms": "carried; carried; carrying; carrier (noun)",
     "example": "Can you carry this box?",
-    "sindhiTranslation": "ڇﺎ ﺗﻮن ﻫﻲ دٻﻮ کڻﻲ ﺳﮕﻬﻴﻦ ٿﻮ؟"
+    "sindhiTranslation": "ڇا ﺗﻮن ﻫﻲ دٻو کڻي ﺳﮕﻬﻴﻦ ٿﻮ؟"
   },
   {
     "id": 64,
@@ -697,7 +697,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ڪﺎرڻ؛ ﺳﺒﺐ ﺑڻﺠڻ،ﺳﺒﺐ",
     "wordForms": "caused; caused; causing; causal (adjective)",
     "example": "What caused the problem?",
-    "sindhiTranslation": "ﻣﺴﺌﻠﻲ ﺟﻮ ﺳﺒﺐ ڇا ﺑڻﻴﻮ؟"
+    "sindhiTranslation": "ﻣﺴﺌﻠﻲ ﺟﻮ ﺳﺒﺐ ڇا ﺑڻيو؟"
   },
   {
     "id": 69,
@@ -969,7 +969,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "زڪﺎم، ﺳﺮد؛ ٿڌ،ٿڌو",
     "wordForms": "colder (comparative); coldest (superlative); coldly (adverb)",
     "example": "The water is too cold.",
-    "sindhiTranslation": "ﭘﺎڻﻲ ﺗﻤﺎم ﮔﻬڻو ٿڌو آﻫﻲ."
+    "sindhiTranslation": "ﭘﺎڻي ﺗﻤﺎم ﮔﻬڻو ٿڌو آﻫﻲ."
   },
   {
     "id": 96,
