@@ -347,7 +347,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﺷﺮاب ﺧﺎﻧﻮ؛ روڪڻ، رڪﺎوٽ،ﺳﻼخ",
     "wordForms": "barred; barred; barring",
     "example": "There is a bar across the window.",
-    "sindhiTranslation": "ء ﺗﻲ ﻫڪ ﺳﻼخ ﻟڳﻞ آﻫﻲ"
+    "sindhiTranslation": "دريءَ جي آرپار هڪ سلاخ لڳل آهي.",
   },
   {
     "id": 34,
