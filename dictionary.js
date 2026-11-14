@@ -154,7 +154,7 @@ const dictionaryEntries = [
     "partOfSpeech": "adjective; noun",
     "sindhiMeaning": "ﻋﻠﻤﻲ؛ اﺳﺘﺎد ﻳﺎ ﻋﺎﻟﻢ،ﺗﻌﻠﻴﻤﻲ",
     "wordForms": "academically (adverb); academy (noun)",
-    "example": "She is an excellent academic.",
+    "example": "She is an excellent academic writer.",
     "sindhiTranslation": "هوءَ هڪ بهترين علمي ليکڪا آهي.",
   },
   {
@@ -839,7 +839,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "خوشيءَ جو نعرو؛ نعرا هڻڻ، همٿائڻ",
     "wordForms": "cheered; cheered; cheering; cheerful (adjective)",
     "example": "The crowd cheered for the team.",
-    "sindhiTranslation": "ماڻهن جي ميڙ ٽيم لاءِ نعرا هنيا.",
+    "sindhiTranslation": " تماشائين ٽيم لاءِ نعرا هنيان",
   },
   {
     "id": 83,
