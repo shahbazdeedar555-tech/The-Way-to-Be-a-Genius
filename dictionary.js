@@ -597,7 +597,7 @@ const dictionaryEntries = [
     "sindhiMeaning": "اﻫﻢ، ﺳﺮﻣﺎﻳﻮ؛ وڏو،ء ﺟﻮ ﺷﻬﺮ",
     "wordForms": "capitalise/capitalize (verb); capitalisation/capitalization (noun)",
     "example": "Karachi is not the capital of Pakistan.",
-    "sindhiTranslation": "ء ﺟﻮ ﺷﻬﺮ ﻧﻪ آﻫﻲ"
+    "sindhiTranslation": "ڪراچي پاڪستان جو گاديءَ جو هَنڌ نہ آهي.",
   },
   {
     "id": 59,
