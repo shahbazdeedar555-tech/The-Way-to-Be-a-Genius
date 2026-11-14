@@ -57,14 +57,16 @@ const dictionaryEntries = [
     "sindhiTranslation": "ﭘکﻮ ﻣﻴﺰ ﺟﻲ ﻣٿﺎن آﻫﻲ."
   },
   {
+
+    {
     "id": 5,
     "word": "Abroad",
     "pronunciation": "/əˈbrɔːd/",
     "partOfSpeech": "adverb",
-    
+    "sindhiMeaning": "پرڏيهه ۾، ٻاهرين ملڪ ۾",
     "wordForms": "—",
     "example": "My brother lives abroad.",
-    sindhiTranslation: "منهنجو ڀاءُ پرڏيهه ۾ رهي ٿو.",
+    "sindhiTranslation": "منهنجو ڀاءُ پرڏيهه ۾ رهي ٿو."
   },
   {
     "id": 6,
