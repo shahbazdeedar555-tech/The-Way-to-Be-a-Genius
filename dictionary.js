@@ -132,7 +132,7 @@ const dictionaryEntries = [
     "word": "Absurd",
     "pronunciation": "/əbˈsɜːrd/",
     "partOfSpeech": "adjective",
-    "sindhiMeaning" ، بي وقوفاڻُو،ﻏﻴﺮﻣﻌﻘﻮل، ﺑﻲ تُڪﻮ"
+    "sindhiMeaning": "بيوقوفاڻو، غيرمعقول، بي تُڪو",
     "wordForms": "absurdly (adverb); absurdity (noun)",
     "example": "That is an absurd excuse.",
     "sindhiTranslation": "اﻫﻮ ﻫڪ ﺑﻲ تُڪو ﺑﻬﺎﻧﻮ آﻫﻲ."
@@ -464,7 +464,7 @@ const dictionaryEntries = [
     "word": "Before",
     "pronunciation": "/bɪˈfɔːr/",
     "partOfSpeech": "preposition; conjunction; adverb",
-    "sindhiMeaning": ﭘﻬﺮﻳﻦ، کﺎن اڳ",
+    "sindhiMeaning": "پهريان، کان اڳ",
     "wordForms": "—",
     "example": "Wash your hands before eating.",
     "sindhiTranslation": "کﺎﺋڻ کﺎن اڳ ﭘﻨﻬﻨﺠﺎ ﻫٿ ڌوﺋﻮ."
