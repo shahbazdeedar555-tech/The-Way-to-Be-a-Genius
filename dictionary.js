@@ -277,8 +277,8 @@ const dictionaryEntries = [
     "sindhiMeaning": "ﺑڇڙو،ﺧﺮاب",
     "wordForms": "worse (comparative); worst (superlative); badly (adverb)",
     "example": "Smoking is bad for your health.",
-    "sindhiTranslation": "ء ﺧﺮاب آﻫﻲ"
-  },
+    
+  },"sindhiTranslation": "سگريٽ نوشي صحت لاءِ خراب آهي.",
   {
     "id": 27,
     "word": "Bag",
