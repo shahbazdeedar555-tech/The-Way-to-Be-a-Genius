@@ -821,15 +821,18 @@ const dictionaryEntries = [
     "sindhiTranslation": "ﻫﻲ دڪﺎن ﺳﺴﺘﺎ ڪﭙڙا وڪڻي ٿﻮ."
   },
   {
-    "id": 81,
+
+    "wordForms": "checked; checked; checking; checker (noun)",
+    "example": "Please check your answers.",
+    "sindhiTranslation": "مهرباني ڪري پنهنجا جواب جانچيو."
+  },
+  {
+    "id": 82,
     "word": "Check",
     "pronunciation": "/tʃek/",
     "partOfSpeech": "verb; noun",
     "sindhiMeaning": "ﻧﺸﺎن، ﭘﺮکڻ؛ ﺟﺎچ،ﺟﺎﭼڻ",
-    "wordForms": "checked; checked; checking; checker (noun)",
-    "sindhiTranslation": "مهرباني ڪري پنهنجا جواب جانچيو."
-  {
-    "id": 82,
+    
     "word": "Cheer",
     "pronunciation": "/tʃɪr/",
     "partOfSpeech": "verb; noun",
