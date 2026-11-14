@@ -47,6 +47,8 @@ const dictionaryEntries = [
     "sindhiTranslation": "اﺳﺎن ﭘﻨﻬﻨﺠﻲ اﺳڪﻮل ﺑﺎﺑﺖ ڳﺎﻟﻬﺎﻳﻮ."
   },
   {
+    
+    {
     "id": 4,
     "word": "Above",
     "pronunciation": "/əˈbʌv/",
@@ -57,8 +59,6 @@ const dictionaryEntries = [
     "sindhiTranslation": "ﭘکﻮ ﻣﻴﺰ ﺟﻲ ﻣٿﺎن آﻫﻲ."
   },
   {
-
-    {
     "id": 5,
     "word": "Abroad",
     "pronunciation": "/əˈbrɔːd/",
@@ -68,7 +68,6 @@ const dictionaryEntries = [
     "example": "My brother lives abroad.",
     "sindhiTranslation": "منهنجو ڀاءُ پرڏيهه ۾ رهي ٿو."
   },
-  {
     "id": 6,
     "word": "Absence",
     "pronunciation": "/ˈæbsəns/",
