@@ -12,6 +12,15 @@ function normalizeSindhi(text) {
 
 // Load dictionary entries from dictionary.js
 const dictionary = (window.dictionaryEntries || []).map(item => ({
+    id: item.id,
+    word: item.word || "",
+    pronunciation: item.pronunciation || "",
+    partOfSpeech: item.partOfSpeech || "",
+    meaning: item.sindhiMeaning || "",
+    wordForms: item.wordForms || "",
+    example: item.example || "",
+    translation: item.sindhiTranslation || ""
+}));
     word: item.word || "",
     pronunciation: item.pronunciation || "",
     partOfSpeech: item.partOfSpeech || "",
