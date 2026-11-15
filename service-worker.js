@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "genius-book-v3";
+const CACHE_NAME = "genius-book-v4";
 
 const FILES_TO_CACHE = [
     "/The-Way-to-Be-a-Genius/",
@@ -36,9 +36,19 @@ self.addEventListener("activate", event => {
 self.addEventListener("fetch", event => {
     if (event.request.method !== "GET") return;
 
+    const url = new URL(event.request.url);
+
+    // Always fetch the downloadable logo directly.
+    if (
+        url.pathname === "/The-Way-to-Be-a-Genius/logo.png"
+    ) {
+        event.respondWith(fetch(event.request));
+        return;
+    }
+
     event.respondWith(
-        caches.match(event.request).then(response =>
-            response || fetch(event.request)
-        )
+        caches.match(event.request).then(response => {
+            return response || fetch(event.request);
+        })
     );
 });
