@@ -235,7 +235,7 @@ const dictionaryEntries = [
     "word": "Actually",
     "pronunciation": "/ˈæktʃuəli/",
     "partOfSpeech": "adverb",
-    "sindhiMeaning": "دراﺻﻞ، اﺻﻞ ۾،ﺣﻘﻴﻘﺖ ۾",
+    "sindhiMeaning": "دراﺻﻞ، اﺻﻞ ۾، ﺣﻘﻴﻘﺖ ۾",
     "wordForms": "actual (adjective)",
     "example": "Actually, I agree with you.",
     "sindhiTranslation": "ﻣﺎن ﺗﻮﻫﺎن ﺳﺎن ﻣﺘﻔﻖ آﻫﻴﺎن،ﺣﻘﻴﻘﺖ ۾."
@@ -245,7 +245,7 @@ const dictionaryEntries = [
     "word": "Adapt",
     "pronunciation": "/əˈdæpt/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "ﻣﻮاﻓﻖ ٿﻴڻ،ﭘﺎڻ کﻲ ﺣﺎﻟﺘﻦ ﻣﻄﺎﺑﻖ ﺑﺪﻻﺋڻ",
+    "sindhiMeaning": "ﻣﻮاﻓﻖ ٿﻴڻ، ﭘﺎڻ کﻲ ﺣﺎﻟﺘﻦ ﻣﻄﺎﺑﻖ ﺑﺪﻻﺋڻ",
     "wordForms": "adapted; adapted; adapting; adaptation (noun)",
     "example": "We must adapt to new situations.",
     "sindhiTranslation": "اﺳﺎن کﻲ ﻧﻴﻦ ﺣﺎﻟﺘﻦ ﺳﺎن ﭘﺎڻ کﻲ ﻣﻮاﻓﻖ ﺑنائڻ ﮔﻬﺮﺟﻲ."
@@ -255,27 +255,27 @@ const dictionaryEntries = [
     "word": "Add",
     "pronunciation": "/æd/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "وڌاﺋڻ، ﺟﻤﻊ ڪﺮڻ،ﺷﺎﻣﻞ ڪﺮڻ",
+    "sindhiMeaning": "وڌاﺋڻ، ﺟﻤﻊ ڪﺮڻ، ﺷﺎﻣﻞ ڪﺮڻ",
     "wordForms": "added; added; adding; addition (noun)",
     "example": "Add some sugar to the tea.",
     "sindhiTranslation": "ﭼﺎﻧﻬﻪ ۾ ٿﻮري کﻨڊ ﺷﺎﻣﻞ ڪﺮﻳﻮ."
   },
-  {
-    "id": 25,
-    "word": "Address",
-    "pronunciation": "/ˈædres/ (noun); /əˈdres/ (verb)",
-    "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ﺧﻄﺎب؛ ﻣﺨﺎﻃﺐ ٿﻴڻ،ﭘﺘﻮ",
-    "wordForms": "addressed; addressed; addressing",
-    "example": "Please write your address here.",
-    "sindhiTranslation": "ﻣﻬﺮﺑﺎﻧﻲ ڪﺮي ﭘﻨﻬﻨﺠﻮ ﭘﺘﻮ ﻫﺘﻲ ﻟکﻮ."
-  },
+     {
+  "id": 25,
+  "word": "Address",
+  "pronunciation": "Noun: /ˈæd.res/; Verb: /əˈdres/",
+  "partOfSpeech": "noun; verb",
+  "sindhiMeaning": "خطاب، پتو؛ مخاطب ٿيڻ",
+  "wordForms": "addresses; addressed; addressed; addressing",
+  "example": "She addressed the audience.",
+  "sindhiTranslation": "هن حاضرين کي خطاب ڪيو."
+},
   {
     "id": 26,
     "word": "Bad",
     "pronunciation": "/bæd/",
     "partOfSpeech": "adjective",
-    "sindhiMeaning": "ﺑڇڙو،ﺧﺮاب",
+    "sindhiMeaning": "ﺑڇڙو، ﺧﺮاب",
     "wordForms": "worse (comparative); worst (superlative); badly (adverb)",
 "example": "Smoking is bad for health.",
     "sindhiTranslation": "سگريٽ نوشي صحت لاءِ خراب آهي."
@@ -286,7 +286,7 @@ const dictionaryEntries = [
     "word": "Bag",
     "pronunciation": "/bæɡ/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ٿﻴﻠﻬﻲ؛ ٿﻴﻠﻬﻲ ۾ وﺟﻬڻ،ٿﻴﻠﻬﻮ",
+    "sindhiMeaning": "ٿﻴﻠﻬو؛ ٿﻴﻠﻬﻲ ۾ وﺟﻬڻ، ٿﻴﻠﻬﻮ",
     "wordForms": "bagged; bagged; bagging",
     "example": "Put your books in the bag.",
     "sindhiTranslation": "ﭘﻨﻬﻨﺠﺎ ڪﺘﺎب ٿﻴﻠﻬﻲ ۾ وﺟﻬﻮ."
@@ -296,7 +296,7 @@ const dictionaryEntries = [
     "word": "Bake",
     "pronunciation": "/beɪk/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "ﺳﻴڪڻ،اوون ۾ ﭘﭽﺎﺋڻ",
+    "sindhiMeaning": "ﺳﻴڪڻ، ﭘﭽﺎﺋڻ",
     "wordForms": "baked; baked; baking; baker (noun); bakery (noun)",
     "example": "My mother likes to bake bread.",
     "sindhiTranslation": "منهنجي ماءُ کي ماني پچائڻ پسند آهي."
@@ -306,7 +306,7 @@ const dictionaryEntries = [
     "word": "Balance",
     "pronunciation": "/ˈbæləns/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ﺑﺮاﺑﺮي؛ ﺗﻮازن ﻗﺎﺋﻢ رکڻ،ﺗﻮازن",
+    "sindhiMeaning": "ﺑﺮاﺑﺮي؛ ﺗﻮازن ﻗﺎﺋﻢ رکڻ، ﺗﻮازن",
     "wordForms": "balanced; balanced; balancing; balanced (adjective)",
     "example": "You should keep a balance between work and rest.",
     "sindhiTranslation": "ﺗﻮﻫﺎن کﻲ ڪﻢ ۽ آرام ۾ ﺗﻮازن رکڻ ﮔﻬﺮﺟﻲ."
@@ -316,7 +316,7 @@ const dictionaryEntries = [
     "word": "Ball",
     "pronunciation": "/bɔːl/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ﮔﻮﻟﻮ،ﺑﺎل",
+    "sindhiMeaning": "کينهُوڙو، ﺑﺎل",
     "wordForms": "balls (plural)",
     "example": "The children are playing with a ball.",
     "sindhiTranslation": "ٻﺎر ﺑﺎل ﺳﺎن کﻴڏي رﻫﻴﺎ آﻫﻦ."
@@ -336,7 +336,7 @@ const dictionaryEntries = [
     "word": "Bank",
     "pronunciation": "/bæŋk/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "درﻳﺎﻫﻪ ﺟﻮ ڪﻨﺎرو؛ ﺑﺌﻨڪ ۾ رﻗﻢ رکڻ،ﺑﺌﻨڪ",
+    "sindhiMeaning": "درﻳﺎﻫﻪ ﺟﻮ ڪﻨﺎرو؛ ﺑﺌﻨڪ ۾ رﻗﻢ رکڻ، ﺑﺌﻨڪ",
     "wordForms": "banked; banked; banking; banker (noun)",
     "example": "I deposited money in the bank.",
     "sindhiTranslation": "ﻣﻮن ﺑﺌﻨڪ ۾ ﭘﺌﺴﺎ ﺟﻤﻊ ڪﺮاﻳﺎ."
@@ -346,7 +346,7 @@ const dictionaryEntries = [
     "word": "Bar",
     "pronunciation": "/bɑːr/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ﺷﺮاب ﺧﺎﻧﻮ؛ روڪڻ، رڪﺎوٽ،ﺳﻼخ",
+    "sindhiMeaning": "ﺷﺮاب ﺧﺎﻧﻮ؛ روڪڻ، رڪﺎوٽ، ﺳﻼخ",
     "wordForms": "barred; barred; barring",
     "example": "There is a bar across the window.",
     "sindhiTranslation": "دريءَ جي آرپار هڪ سلاخ لڳل آهي.",
@@ -356,7 +356,7 @@ const dictionaryEntries = [
     "word": "Basic",
     "pronunciation": "/ˈbeɪsɪk/",
     "partOfSpeech": "adjective; noun",
-    "sindhiMeaning": "ﺿﺮوري؛ ﺑﻨﻴﺎدي اﺻﻮل،ﺑﻨﻴﺎدي",
+    "sindhiMeaning": "ﺿﺮوري؛ ﺑﻨﻴﺎدي اﺻﻮل، ﺑﻨﻴﺎدي",
     "wordForms": "basically (adverb); basis (noun)",
     "example": "You should learn basic English first.",
     "sindhiTranslation": "ﺗﻮﻫﺎن کﻲ ﭘﻬﺮﻳﻦ ﺑﻨﻴﺎدي اﻧﮕﺮﻳﺰي ﺳکڻ ﮔﻬﺮﺟﻲ."
@@ -376,7 +376,7 @@ const dictionaryEntries = [
     "word": "Bath",
     "pronunciation": "/bæθ/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "وﻫﻨﺠڻ،ﻏﺴﻞ",
+    "sindhiMeaning": "وﻫﻨﺠڻ، ﻏﺴﻞ",
     "wordForms": "bathe (verb); bathing (noun)",
     "example": "I take a bath every morning.",
     "sindhiTranslation": "ﻣﺎن ﻫﺮ ﺻﺒﺢ ﻏﺴﻞ ڪﻨﺪو آﻫﻴﺎن."
@@ -386,7 +386,7 @@ const dictionaryEntries = [
     "word": "Be",
     "pronunciation": "/biː/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "ﻫﺌڻ،ٿﻴڻ",
+    "sindhiMeaning": "ﻫﺌڻ، ٿﻴڻ",
     "wordForms": "am; is; are; was; were; been; being",
     "example": "Be kind to everyone.",
     "sindhiTranslation": "ﺳڀﻨﻲ ﺳﺎن ﻣﻬﺮﺑﺎن رﻫﻮ."
@@ -396,7 +396,7 @@ const dictionaryEntries = [
     "word": "Beach",
     "pronunciation": "/biːtʃ/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ﺳﺎﺣﻞ،ﺳﻤﻨڊ ﺟﻮ ڪﻨﺎرو",
+    "sindhiMeaning": "ﺳﺎﺣﻞ، ﺳﻤﻨڊ ﺟﻮ ڪﻨﺎرو",
     "wordForms": "beaches (plural)",
     "example": "We walked along the beach.",
     "sindhiTranslation": "اﺳﺎن ﺳﻤﻨڊ ﺟﻲ ڪﻨﺎري ﺗﻲ ﮔﻬﻤﻴﺎﺳﻴﻦ."
@@ -406,7 +406,7 @@ const dictionaryEntries = [
     "word": "Bear",
     "pronunciation": "/ber/",
     "partOfSpeech": "verb; noun",
-    "sindhiMeaning": "ﺳﻬڻ؛ رڇ،ﺑﺮداﺷﺖ ڪﺮڻ",
+    "sindhiMeaning": "ﺳﻬڻ؛ رڇ، ﺑﺮداﺷﺖ ڪﺮڻ",
     "wordForms": "bore; borne/born; bearing",
     "example": "I cannot bear this noise.",
     "sindhiTranslation": "ﻣﺎن ﻫﻲ ﺷﻮر ﺑﺮداﺷﺖ ﻧٿﻮ ڪﺮي ﺳﮕﻬﺎن."
@@ -416,7 +416,7 @@ const dictionaryEntries = [
     "word": "Beat",
     "pronunciation": "/biːt/",
     "partOfSpeech": "verb; noun",
-    "sindhiMeaning": "ڌڙڪڻ؛ ڌڪ، ﺷڪﺴﺖ ڏﻳڻ،ﻣﺎرڻ",
+    "sindhiMeaning": "ڌڙڪڻ؛ ڌڪ، ﺷڪﺴﺖ ڏﻳڻ، ﻣﺎرڻ",
     "wordForms": "beat; beaten; beating",
     "example": "Our team beat the other team.",
     "sindhiTranslation": "اﺳﺎن ﺟﻲ ٽﻴﻢ ٻﻲ ٽﻴﻢ کﻲ ﺷڪﺴﺖ ڏﻧﻲ."
@@ -426,7 +426,7 @@ const dictionaryEntries = [
     "word": "Beautiful",
     "pronunciation": "/ˈbjuːtɪfəl/",
     "partOfSpeech": "adjective",
-    "sindhiMeaning": "ﺧﻮﺑﺼﻮرت،ﺳﻬڻﻮ",
+    "sindhiMeaning": " ﺧﻮﺑﺼﻮرت، سُهڻُو",
     "wordForms": "beautifully (adverb); beauty (noun)",
     "example": "The garden looks beautiful.",
     "sindhiTranslation": "ﺑﺎغ ﺧﻮﺑﺼﻮرت ﻟڳﻲ ٿﻮ."
@@ -436,7 +436,7 @@ const dictionaryEntries = [
     "word": "Beauty",
     "pronunciation": "/ˈbjuːti/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ﺧﻮﺑﺼﻮرﺗﻲ،ﺣﺴﻦ",
+    "sindhiMeaning": "ﺧﻮﺑﺼﻮرﺗﻲ، ﺣﺴﻦ",
     "wordForms": "beautiful (adjective); beautifully (adverb)",
     "example": "The beauty of nature inspires us.",
     "sindhiTranslation": "ﻓﻄﺮت ﺟﻲ ﺧﻮﺑﺼﻮرﺗﻲ اﺳﺎن کﻲ ﻣﺘﺎﺛﺮ ڪﺮي ٿﻲ."
@@ -446,7 +446,7 @@ const dictionaryEntries = [
     "word": "Become",
     "pronunciation": "/bɪˈkʌm/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "ﺑڻﺠڻ،ٿﻴڻ",
+    "sindhiMeaning": "ﺑڻﺠڻ، ٿﻴڻ",
     "wordForms": "became; become; becoming",
     "example": "She wants to become a teacher.",
     "sindhiTranslation": "هوءَ استاد ٿيڻ چاهي ٿي.",
@@ -456,7 +456,7 @@ const dictionaryEntries = [
     "word": "Bed",
     "pronunciation": "/bed/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ﺑﺴﺘﺮو،ﭘﻠﻨﮓ",
+    "sindhiMeaning": "ﺑﺴﺘﺮو، ﭘﻠﻨﮓ",
     "wordForms": "beds (plural); bedding (noun)",
     "example": "The child is sleeping in bed.",
     "sindhiTranslation": "ٻﺎر ﺑﺴﺘﺮي ۾ ﺳﻤﻬﻲ رﻫﻴﻮ آﻫﻲ."
@@ -476,7 +476,7 @@ const dictionaryEntries = [
     "word": "Begin",
     "pronunciation": "/bɪˈɡɪn/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "آﻏﺎز ڪﺮڻ،ﺷﺮوع ڪﺮڻ",
+    "sindhiMeaning": "آﻏﺎز ڪﺮڻ، ﺷﺮوع ڪﺮڻ",
     "wordForms": "began; begun; beginning; beginner (noun)",
     "example": "The class will begin at nine.",
     "sindhiTranslation": "ڪﻼس ﻧﺎﺋﻴﻦ وڳﻲ ﺷﺮوع ٿﻴﻨﺪو."
@@ -486,7 +486,7 @@ const dictionaryEntries = [
     "word": "Behind",
     "pronunciation": "/bɪˈhaɪnd/",
     "partOfSpeech": "preposition; adverb",
-    "sindhiMeaning": "ﭘﻮﻳﺎن،ﭘٺﻴﺎن",
+    "sindhiMeaning": "ﭘﻮﻳﺎن، ﭘٺﻴﺎن",
     "wordForms": "—",
     "example": "The school is behind the mosque.",
     "sindhiTranslation": "اﺳڪﻮل ﻣﺴﺠﺪ ﺟﻲ ﭘٺﻴﺎن آﻫﻲ."
@@ -496,7 +496,7 @@ const dictionaryEntries = [
     "word": "Believe",
     "pronunciation": "/bɪˈliːv/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "ﻣڃڻ،ﻳﻘﻴﻦ ڪﺮڻ",
+    "sindhiMeaning": "ﻣڃڻ، ﻳﻘﻴﻦ ڪﺮڻ",
     "wordForms": "believed; believed; believing; belief (noun)",
     "example": "I believe in your ability.",
     "sindhiTranslation": "ﻣﻮن کﻲ ﺗﻨﻬﻨﺠﻲ ﻗﺎﺑﻠﻴﺖ ﺗﻲ ﻳﻘﻴﻦ آﻫﻲ."
@@ -506,7 +506,7 @@ const dictionaryEntries = [
     "word": "Benefit",
     "pronunciation": "/ˈbenɪfɪt/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ڀﻼﺋﻲ؛ ﻓﺎﺋﺪو ﭘﻬﭽﺎﺋڻ،ﻓﺎﺋﺪو",
+    "sindhiMeaning": "ڀﻼﺋﻲ؛ ﻓﺎﺋﺪو ﭘﻬﭽﺎﺋڻ، ﻓﺎﺋﺪو",
     "wordForms": "benefited/benefitted; benefited/benefitted; benefiting/benefitting; beneficial (adjective)",
     "example": "Exercise has many health benefits.",
     "sindhiTranslation": "ورزش جا صحت لاءِ ڪيترائي فائدا آهن.",
@@ -526,7 +526,7 @@ const dictionaryEntries = [
     "word": "Call",
     "pronunciation": "/kɔːl/",
     "partOfSpeech": "verb; noun",
-    "sindhiMeaning": "ﻓﻮن، ﻓﻮن ڪﺮڻ؛ ﺳڏ،ﺳڏڻ",
+    "sindhiMeaning": "ﻓﻮن، ﻓﻮن ڪﺮڻ؛ ﺳڏ، ﺳڏڻ",
     "wordForms": "called; called; calling",
     "example": "Please call me tomorrow.",
     "sindhiTranslation": "ﻣﻬﺮﺑﺎﻧﻲ ڪﺮي ﻣﻮن کﻲ ﺳڀﺎڻي ﻓﻮن ڪﺠﻮ."
@@ -536,7 +536,7 @@ const dictionaryEntries = [
     "word": "Calm",
     "pronunciation": "/kɑːm/",
     "partOfSpeech": "adjective; verb; noun",
-    "sindhiMeaning": "ﺧﺎﻣﻮش؛ ﭘﺮﺳڪﻮن ڪﺮڻ؛ ﺳڪﻮن،ﭘﺮﺳڪﻮن",
+    "sindhiMeaning": "ﺧﺎﻣﻮش؛ ﭘﺮﺳڪﻮن ڪﺮڻ؛ ﺳڪﻮن، ﭘﺮﺳڪﻮن",
     "wordForms": "calmed; calmed; calming; calmly (adverb)",
     "example": "Stay calm during the exam.",
     "sindhiTranslation": "اﻣﺘﺤﺎن دوران ﭘﺮﺳڪﻮن رﻫﻮ."
@@ -546,7 +546,7 @@ const dictionaryEntries = [
     "word": "Camera",
     "pronunciation": "/ˈkæmərə/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ﺗﺼﻮﻳﺮ ڪڍڻ ﺟﻮ اوزار،ڪﺌﻤﻴﺮا",
+    "sindhiMeaning": "ﺗﺼﻮﻳﺮ ڪڍڻ ﺟﻮ اوزار، ڪﺌﻤﻴﺮا",
     "wordForms": "cameras (plural)",
     "example": "This camera takes clear pictures.",
     "sindhiTranslation": "ﻫﻲ ڪﺌﻤﻴﺮا ﺻﺎف ﺗﺼﻮﻳﺮون ڪڍي ٿﻮ."
@@ -556,7 +556,7 @@ const dictionaryEntries = [
     "word": "Camp",
     "pronunciation": "/kæmp/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ﻋﺎرﺿﻲ رﻫﺎﺋﺶ؛ ڪﺌﻤﭗ ﻟڳﺎﺋڻ،ڪﺌﻤﭗ",
+    "sindhiMeaning": "ﻋﺎرﺿﻲ رﻫﺎﺋﺶ؛ ڪﺌﻤﭗ ﻟڳﺎﺋڻ، ڪﺌﻤﭗ",
     "wordForms": "camped; camped; camping; camper (noun)",
     "example": "We camped near the river.",
     "sindhiTranslation": "اﺳﺎن درﻳﺎﻫﻪ ﺟﻲ وﻳﺠﻬﻮ ڪﺌﻤﭗ ﻟڳﺎﺋﻲ."
@@ -566,7 +566,7 @@ const dictionaryEntries = [
     "word": "Can",
     "pronunciation": "/kæn/; weak form /kən/",
     "partOfSpeech": "modal verb; noun",
-    "sindhiMeaning": "ڪﺮي ﺳﮕﻬڻ؛ دٻﻮ،ﺳﮕﻬڻ",
+    "sindhiMeaning": "ڪﺮي ﺳﮕﻬڻ؛ دَٻﻮ، ﺳﮕﻬڻ",
     "wordForms": "could (past form); cannot/can't",
     "example": "I can speak Sindhi and English.",
     "sindhiTranslation": "ﻣﺎن ﺳﻨڌي ۽ اﻧﮕﺮﻳﺰي ڳﺎﻟﻬﺎﺋﻲ ﺳﮕﻬﺎن ٿﻮ."
@@ -576,7 +576,7 @@ const dictionaryEntries = [
     "word": "Cancel",
     "pronunciation": "/ˈkænsəl/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "رد ڪﺮڻ،ﻣﻨﺴﻮخ ڪﺮڻ",
+    "sindhiMeaning": "رد ڪﺮڻ، ﻣﻨﺴﻮخ ڪﺮڻ",
     "wordForms": "cancelled/canceled; cancelled/canceled; cancelling/canceling; cancellation (noun)",
     "example": "They had to cancel the meeting.",
     "sindhiTranslation": "اﻧﻬﻦ کﻲ ﮔڏﺟﺎڻي ﻣﻨﺴﻮخ ڪﺮڻي ﭘﺌﻲ."
@@ -606,7 +606,7 @@ const dictionaryEntries = [
     "word": "Car",
     "pronunciation": "/kɑːr/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ڪﺎر،ﻣﻮٽﺮ",
+    "sindhiMeaning": "ڪﺎر، ﻣﻮٽﺮ",
     "wordForms": "cars (plural)",
     "example": "My father drives a car.",
    "sindhiTranslation": "منهنجو پيءُ ڪار هلائي ٿو.",
@@ -616,7 +616,7 @@ const dictionaryEntries = [
     "word": "Care",
     "pronunciation": "/ker/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ﭘﺮواﻫﻪ؛ ﺧﻴﺎل رکڻ،ﺧﻴﺎل",
+    "sindhiMeaning": "ﭘﺮواﻫﻪ؛ ﺧﻴﺎل رکڻ، ﺧﻴﺎل",
     "wordForms": "cared; cared; caring; careful (adjective); carefully (adverb)",
     "example": "Take care of your health.",
     "sindhiTranslation": "ﭘﻨﻬﻨﺠﻲ ﺻﺤﺖ ﺟﻮ ﺧﻴﺎل رکﻮ."
@@ -626,7 +626,7 @@ const dictionaryEntries = [
     "word": "Careful",
     "pronunciation": "/ˈkerfəl/",
     "partOfSpeech": "adjective",
-    "sindhiMeaning": "ﺧﺒﺮدار،ﻣﺤﺘﺎط",
+    "sindhiMeaning": "ﺧﺒﺮدار، ﻣﺤﺘﺎط",
     "wordForms": "carefully (adverb); carelessness (noun)",
     "example": "Be careful while crossing the road.",
     "sindhiTranslation": "روڊ ﭘﺎر ڪﻨﺪي ﻣﺤﺘﺎط رﻫﻮ."
@@ -636,7 +636,7 @@ const dictionaryEntries = [
     "word": "Carefully",
     "pronunciation": "/ˈkerfəli/",
     "partOfSpeech": "adverb",
-    "sindhiMeaning": "ڌﻳﺎن ﺳﺎن،اﺣﺘﻴﺎط ﺳﺎن",
+    "sindhiMeaning": "ڌﻳﺎن ﺳﺎن، اﺣﺘﻴﺎط ﺳﺎن",
     "wordForms": "careful (adjective)",
     "example": "Read the instructions carefully.",
     "sindhiTranslation": "ﻫﺪاﻳﺘﻮن ڌﻳﺎن ﺳﺎن ﭘڙﻫﻮ."
@@ -646,7 +646,7 @@ const dictionaryEntries = [
     "word": "Carry",
     "pronunciation": "/ˈkæri/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "کڻﻲ وڃڻ،کڻڻ",
+    "sindhiMeaning": "کڻي وڃڻ، کڻڻ",
     "wordForms": "carried; carried; carrying; carrier (noun)",
     "example": "Can you carry this box?",
     "sindhiTranslation": "ڇا ﺗﻮن ﻫﻲ دٻو کڻي ﺳﮕﻬﻴﻦ ٿﻮ؟"
@@ -656,7 +656,7 @@ const dictionaryEntries = [
     "word": "Case",
     "pronunciation": "/keɪs/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ﺻﻨﺪوق، ڪﻴﺲ، ﻣﻌﺎﻣﻠﻮ،ﺣﺎﻟﺖ",
+    "sindhiMeaning": "ﺻﻨﺪوق، ڪﻴﺲ، ﻣﻌﺎﻣﻠﻮ، ﺣﺎﻟﺖ",
     "wordForms": "cases (plural)",
     "example": "In this case, we should wait.",
     "sindhiTranslation": "ﻫﻦ ﺣﺎﻟﺖ ۾ اﺳﺎن کﻲ اﻧﺘﻈﺎر ڪﺮڻ ﮔﻬﺮﺟﻲ."
@@ -666,7 +666,7 @@ const dictionaryEntries = [
     "word": "Cash",
     "pronunciation": "/kæʃ/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ﻧﻘﺪ ﭘﺌﺴﺎ؛ ﭼﻴڪ ﻧﻘﺪ ڪﺮاﺋڻ،روڪ رﻗﻢ",
+    "sindhiMeaning": "ﻧﻘﺪ ﭘﺌﺴﺎ؛ ﭼﻴڪ ﻧﻘﺪ ڪﺮاﺋڻ، روڪ رﻗﻢ",
     "wordForms": "cashed; cashed; cashing",
     "example": "I paid for the book in cash.",
     "sindhiTranslation": "ﻣﻮن ڪﺘﺎب ﺟﺎ ﭘﺌﺴﺎ ﻧﻘﺪ ادا ڪﻴﺎ."
@@ -686,7 +686,7 @@ const dictionaryEntries = [
     "word": "Catch",
     "pronunciation": "/kætʃ/",
     "partOfSpeech": "verb; noun",
-    "sindhiMeaning": "ﮔﺮﻓﺘﺎر ڪﺮڻ؛ ﭘڪڙ،ﭘڪڙڻ",
+    "sindhiMeaning": "ﮔﺮﻓﺘﺎر ڪﺮڻ؛ ﭘڪڙ، ﭘڪڙڻ",
     "wordForms": "caught; caught; catching",
     "example": "Catch the ball with both hands.",
     "sindhiTranslation": "ٻﻨﻬﻲ ﻫٿﻦ ﺳﺎن ﺑﺎل ﭘڪڙ."
@@ -696,7 +696,7 @@ const dictionaryEntries = [
     "word": "Cause",
     "pronunciation": "/kɔːz/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ڪﺎرڻ؛ ﺳﺒﺐ ﺑڻﺠڻ،ﺳﺒﺐ",
+    "sindhiMeaning": "ڪﺎرڻ؛ ﺳﺒﺐ ﺑڻجڻ، ﺳﺒﺐ",
     "wordForms": "caused; caused; causing; causal (adjective)",
     "example": "What caused the problem?",
     "sindhiTranslation": "ﻣﺴﺌﻠﻲ ﺟﻮ ﺳﺒﺐ ڇا ﺑڻيو؟"
@@ -706,7 +706,7 @@ const dictionaryEntries = [
     "word": "Celebrate",
     "pronunciation": "/ˈselɪbreɪt/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "ﺧﻮﺷﻲ ﻣﻠﻬﺎﺋڻ،ﺟﺸﻦ ﻣﻠﻬﺎﺋڻ",
+    "sindhiMeaning": "ﺧﻮﺷﻲ ﻣﻠﻬﺎﺋڻ، ﺟﺸﻦ ﻣﻠﻬﺎﺋڻ",
     "wordForms": "celebrated; celebrated; celebrating; celebration (noun)",
     "example": "We celebrate Independence Day on 14 August.",
     "sindhiTranslation": "اسان چوڏهن آگسٽ تي آزاديءَ ﺟﻮ ڏﻳﻨﻬﻦ ﻣﻠﻬﺎﺋﻴﻨﺪا آﻫﻴﻮن"
@@ -716,7 +716,7 @@ const dictionaryEntries = [
     "word": "Cell",
     "pronunciation": "/sel/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ﺣﻴﺎﺗﻴﺎﺗﻲ ﺧﻠﻴﺔ، ﺟﻴﻞ ﺟﻮ ڪﻤﺮو،ﺧﺎﻧﻮ",
+    "sindhiMeaning": "ﺣﻴﺎﺗﻴﺎﺗﻲ ﺧﻠﻴﺔ، ﺟﻴﻞ ﺟﻮ ڪﻤﺮو، ﺧﺎﻧﻮ",
     "wordForms": "cells (plural); cellular (adjective)",
     "example": "The human body is made of cells.",
     "sindhiTranslation": "اﻧﺴﺎﻧﻲ ﺟﺴﻢ ﺧﻠﻴﻦ ﻣﺎن ٺﻬﻴﻞ آﻫﻲ."
@@ -726,7 +726,7 @@ const dictionaryEntries = [
     "word": "Center",
     "pronunciation": "/ˈsentər/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "وچ؛ ﻣﺮڪﺰ ﺑڻﺎﺋڻ،ﻣﺮڪﺰ",
+    "sindhiMeaning": "وچ؛ ﻣﺮڪﺰ ﺑڻاﺋڻ، ﻣﺮڪﺰ",
     "wordForms": "centered; centered; centering; central (adjective)",
     "example": "The library is in the center of the town.",
     "sindhiTranslation": "ﻻﺋﺒﺮﻳﺮي ﺷﻬﺮ ﺟﻲ وچ ۾ آﻫﻲ."
@@ -736,7 +736,7 @@ const dictionaryEntries = [
     "word": "Century",
     "pronunciation": "/ˈsentʃəri/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ﺳﺌﻮ ﺳﺎﻟﻦ ﺟﻮ ﻋﺮﺻﻮ،ﺻﺪي",
+    "sindhiMeaning": "ﺳﺌﻮ ﺳﺎﻟﻦ ﺟﻮ ﻋﺮﺻﻮ، ﺻﺪي",
     "wordForms": "centuries (plural); centennial (adjective/noun)",
     "example": "We live in the twenty-first century.",
     "sindhiTranslation": "اسان ايڪيهين صديءَ ۾ رﻫﻮن ٿﺎ"
@@ -746,7 +746,7 @@ const dictionaryEntries = [
     "word": "Certain",
     "pronunciation": "/ˈsɜːrtən/",
     "partOfSpeech": "adjective; determiner",
-    "sindhiMeaning": "ﭘڪ وارو؛ ڪﻮ ﺧﺎص،ﻳﻘﻴﻨﻲ",
+    "sindhiMeaning": "ﭘڪ وارو؛ ڪﻮ ﺧﺎص، ﻳﻘﻴﻨﻲ",
     "wordForms": "certainly (adverb); certainty (noun)",
     "example": "I am certain about my answer.",
     "sindhiTranslation": "ﻣﻮن کﻲ ﭘﻨﻬﻨﺠﻲ ﺟﻮاب ﺟﻲ ﭘڪ آﻫﻲ."
@@ -756,7 +756,7 @@ const dictionaryEntries = [
     "word": "Certainly",
     "pronunciation": "/ˈsɜːrtənli/",
     "partOfSpeech": "adverb",
-    "sindhiMeaning": "ﺑﻴﺸڪ، ﺿﺮور،ﻳﻘﻴﻨًﺎ",
+    "sindhiMeaning": "ﺑﻴﺸڪ، ﺿﺮور، ﻳﻘﻴﻨًﺎ",
     "wordForms": "certain (adjective)",
     "example": "Certainly, I will help you.",
     "sindhiTranslation": "ﻣﺎن ﺗﻨﻬﻨﺠﻲ ﻣﺪد ڪﻨﺪس،ﻳﻘﻴﻨًﺎ."
@@ -776,7 +776,7 @@ const dictionaryEntries = [
     "word": "Chance",
     "pronunciation": "/tʃæns/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "اﻣڪﺎن؛ اﺗﻔﺎق ﺳﺎن ڪﺮڻ،ﻣﻮﻗﻌﻮ",
+    "sindhiMeaning": "اﻣڪﺎن؛ اﺗﻔﺎق ﺳﺎن ڪﺮڻ، ﻣﻮﻗﻌﻮ",
     "wordForms": "chanced; chanced; chancing; chance (adjective in compounds)",
     "example": "Give me one more chance.",
     "sindhiTranslation": "ﻣﻮن کﻲ ﻫڪ ٻﻴﻮ ﻣﻮﻗﻌﻮ ڏﻳﻮ."
@@ -786,7 +786,7 @@ const dictionaryEntries = [
     "word": "Change",
     "pronunciation": "/tʃeɪndʒ/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ﺑﺎﻗﻲ رﻗﻢ؛ ﺑﺪﻻﺋڻ،ﺗﺒﺪﻳﻠﻲ",
+    "sindhiMeaning": "ﺑﺎﻗﻲ رﻗﻢ؛ ﺑﺪﻻﺋڻ، ﺗﺒﺪﻳﻠﻲ",
     "wordForms": "changed; changed; changing; changeable (adjective)",
     "example": "You should change your habits.",
     "sindhiTranslation": "ﺗﻮﻫﺎن کﻲ ﭘﻨﻬﻨﺠﻮن ﻋﺎدﺗﻮن ﺑﺪﻻﺋڻ ﮔﻬﺮﺟﻦ."
@@ -796,7 +796,7 @@ const dictionaryEntries = [
     "word": "Character",
     "pronunciation": "/ˈkærəktər/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "اکﺮ، ﺷﺨﺼﻴﺖ،ڪﺮدار",
+    "sindhiMeaning": "اکﺮ، ﺷﺨﺼﻴﺖ، ڪﺮدار",
     "wordForms": "characterise/characterize (verb); characteristic (adjective/noun)",
     "example": "Honesty is an important part of character.",
     "sindhiTranslation": "اﻳﻤﺎﻧﺪاري ڪﺮدار ﺟﻮ ﻫڪ اﻫﻢ ﺣﺼﻮ آﻫﻲ."
@@ -806,7 +806,7 @@ const dictionaryEntries = [
     "word": "Charge",
     "pronunciation": "/tʃɑːrdʒ/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "اﻟﺰام ﻟڳﺎﺋڻ، ﭼﺎرج؛ رﻗﻢ وٺڻ، اﻟﺰام،ﻗﻴﻤﺖ",
+    "sindhiMeaning": "اﻟﺰام ﻟڳﺎﺋڻ، ﭼﺎرج؛ رﻗﻢ وٺڻ، اﻟﺰام، ﻗﻴﻤﺖ",
     "wordForms": "charged; charged; charging; chargeable (adjective)",
     "example": "How much do you charge for this work?",
     "sindhiTranslation": "ﺗﻮﻫﺎن ﻫﻦ ڪﻢ ﺟﺎ ڪﻴﺘﺮا ﭘﺌﺴﺎ وٺﻮ ٿﺎ؟"
@@ -816,7 +816,7 @@ const dictionaryEntries = [
     "word": "Cheap",
     "pronunciation": "/tʃiːp/",
     "partOfSpeech": "adjective",
-    "sindhiMeaning": "ﮔﻬٽ ﻗﻴﻤﺖ وارو،ﺳﺴﺘﻮ",
+    "sindhiMeaning": "ﮔﻬٽ ﻗﻴﻤﺖ وارو، ﺳﺴﺘﻮ",
     "wordForms": "cheaper (comparative); cheapest (superlative); cheaply (adverb)",
     "example": "This shop sells cheap clothes.",
     "sindhiTranslation": "ﻫﻲ دڪﺎن ﺳﺴﺘﺎ ڪﭙڙا وڪڻي ٿﻮ."
@@ -848,7 +848,7 @@ const dictionaryEntries = [
     "word": "Child",
     "pronunciation": "/tʃaɪld/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ﻧﻨڍڙو،ٻﺎر",
+    "sindhiMeaning": "ﻧﻨڍڙو، ٻار",
     "wordForms": "children (plural); childish (adjective); childhood (noun)",
     "example": "Every child deserves education.",
     "sindhiTranslation": "ﻫﺮ ٻﺎر ﺗﻌﻠﻴﻢ ﺟﻮ ﺣﻘﺪار آﻫﻲ."
@@ -858,7 +858,7 @@ const dictionaryEntries = [
     "word": "Choose",
     "pronunciation": "/tʃuːz/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "ﭘﺴﻨﺪ ڪﺮڻ،ﭼﻮﻧڊڻ",
+    "sindhiMeaning": "ﭘﺴﻨﺪ ڪﺮڻ، ﭼﻮﻧڊڻ",
     "wordForms": "chose; chosen; choosing; choice (noun)",
     "example": "Choose the correct answer.",
     "sindhiTranslation": "ﺻﺤﻴﺢ ﺟﻮاب ﭼﻮﻧڊﻳﻮ."
@@ -878,7 +878,7 @@ const dictionaryEntries = [
     "word": "City",
     "pronunciation": "/ˈsɪti/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": " وڏو آباديءَ وارو علائقو",
+    "sindhiMeaning": " شهر، وڏو آباديءَ وارو علائقو",
     "wordForms": "cities (plural); citywide (adjective/adverb)",
     "example": "Hyderabad is an important city of Sindh.",
     "sindhiTranslation": "ﺣﻴﺪرآﺑﺎد ﺳﻨڌ ﺟﻮ ﻫڪ اﻫﻢ ﺷﻬﺮ آﻫﻲ."
@@ -888,7 +888,7 @@ const dictionaryEntries = [
     "word": "Class",
     "pronunciation": "/klæs/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "درﺟﻮ؛ درﺟﻲ ﺑﻨﺪي ڪﺮڻ، ﺟﻤﺎﻋﺖ،ڪﻼس",
+    "sindhiMeaning": "درﺟﻮ؛ درﺟﻲ ﺑﻨﺪي ڪﺮڻ، ﺟﻤﺎﻋﺖ، ڪﻼس",
     "wordForms": "classed; classed; classing; classroom (noun)",
     "example": "Our English class starts at eight.",
     "sindhiTranslation": "اﺳﺎن ﺟﻮ اﻧﮕﺮﻳﺰي ڪﻼس اٺﻴﻦ وڳﻲ ﺷﺮوع ٿﺌﻲ ٿﻮ."
@@ -898,7 +898,7 @@ const dictionaryEntries = [
     "word": "Clean",
     "pronunciation": "/kliːn/",
     "partOfSpeech": "adjective; verb",
-    "sindhiMeaning": "ﭘﺎڪ؛ ﺻﺎف ڪﺮڻ،ﺻﺎف",
+    "sindhiMeaning": "ﭘﺎڪ؛ ﺻﺎف ڪﺮڻ، ﺻﺎف",
     "wordForms": "cleaned; cleaned; cleaning; cleanliness (noun); cleanly (adverb)",
     "example": "Keep your classroom clean.",
     "sindhiTranslation": "ﭘﻨﻬﻨﺠﻮ ڪﻼس روم ﺻﺎف رکﻮ."
@@ -908,7 +908,7 @@ const dictionaryEntries = [
     "word": "Clear",
     "pronunciation": "/klɪr/",
     "partOfSpeech": "adjective; verb",
-    "sindhiMeaning": "واﺿﺢ؛ ﺻﺎف ڪﺮڻ، ﭼٽﻮ،ﺻﺎف",
+    "sindhiMeaning": "واﺿﺢ؛ ﺻﺎف ڪﺮڻ، ﭼٽﻮ، ﺻﺎف",
     "wordForms": "cleared; cleared; clearing; clearly (adverb); clarity (noun)",
     "example": "Your explanation is clear.",
     "sindhiTranslation": "ﺗﻨﻬﻨﺠﻲ وﺿﺎﺣﺖ واﺿﺢ چِٽِي آﻫﻲ."
@@ -938,7 +938,7 @@ const dictionaryEntries = [
     "word": "Cloth",
     "pronunciation": "/klɔːθ/",
     "partOfSpeech": "noun",
-    "sindhiMeaning": "ڪﭙڙي ﺟﻮ ٽڪﺮو،ڪﭙڙو",
+    "sindhiMeaning": "ڪﭙڙي ﺟﻮ ٽڪﺮو، ڪﭙڙو",
     "wordForms": "cloths (plural); clothing (noun)",
     "example": "She bought a piece of cloth.",
     "sindhiTranslation": "ﻫﻦ ڪﭙڙي ﺟﻮ ﻫڪ ٽڪﺮو ﺧﺮﻳﺪ ڪﻴﻮ."
@@ -948,7 +948,7 @@ const dictionaryEntries = [
     "word": "Cloud",
     "pronunciation": "/klaʊd/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ﺑﺎدل؛ ڌﻧڌﻟﻮ ڪﺮڻ،ڪڪﺮ",
+    "sindhiMeaning": "ﺑﺎدل؛ ڌﻧڌﻟﻮ ڪﺮڻ، ڪڪﺮ",
     "wordForms": "clouded; clouded; clouding; cloudy (adjective)",
     "example": "A dark cloud covered the sun.",
     "sindhiTranslation": "ﻫڪ ڪﺎري ڪڪﺮ ﺳﺞ کﻲ ڍڪﻲ ڇڏﻳﻮ."
@@ -968,7 +968,7 @@ const dictionaryEntries = [
     "word": "Cold",
     "pronunciation": "/koʊld/",
     "partOfSpeech": "adjective; noun",
-    "sindhiMeaning": "زڪﺎم، ﺳﺮد؛ ٿڌ،ٿڌو",
+    "sindhiMeaning": "زڪﺎم، ﺳﺮد؛ ٿڌ، ٿڌو",
     "wordForms": "colder (comparative); coldest (superlative); coldly (adverb)",
     "example": "The water is too cold.",
     "sindhiTranslation": "ﭘﺎڻي ﺗﻤﺎم ﮔﻬڻو ٿڌو آﻫﻲ."
@@ -988,7 +988,7 @@ const dictionaryEntries = [
     "word": "Come",
     "pronunciation": "/kʌm/",
     "partOfSpeech": "verb",
-    "sindhiMeaning": "ﭘﻬﭽڻ،اﭼڻ",
+    "sindhiMeaning": "ﭘﻬﭽڻ، اﭼڻ",
     "wordForms": "came; come; coming",
     "example": "Please come here.",
     "sindhiTranslation": "ﻣﻬﺮﺑﺎﻧﻲ ڪﺮي ﻫﺘﻲ اﭼﻮ."
@@ -998,7 +998,7 @@ const dictionaryEntries = [
     "word": "Comfort",
     "pronunciation": "/ˈkʌmfərt/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "آٿﺖ؛ آٿﺖ ڏﻳڻ،آرام",
+    "sindhiMeaning": "آٿﺖ؛ آٿﺖ ڏﻳڻ، آرام",
     "wordForms": "comforted; comforted; comforting; comfortable (adjective); comfortably (adverb)",
     "example": "Her words gave me comfort.",
     "sindhiTranslation": "ﻫﻦ ﺟﻲ ڳﺎﻟﻬﻴﻦ ﻣﻮن کﻲ آٿﺖ ڏﻧﻲ."
@@ -1008,7 +1008,7 @@ const dictionaryEntries = [
     "word": "Common",
     "pronunciation": "/ˈkɑːmən/",
     "partOfSpeech": "adjective; noun",
-    "sindhiMeaning": "ﻣﻌﻤﻮﻟﻲ؛ ﻋﻮاﻣﻲ زﻣﻴﻦ، ﮔڏﻳﻞ،ﻋﺎم",
+    "sindhiMeaning": "ﻣﻌﻤﻮﻟﻲ؛ ﻋﻮاﻣﻲ زﻣﻴﻦ، ﮔڏﻳﻞ، ﻋﺎم",
     "wordForms": "commonly (adverb); commonness (noun)",
     "example": "This is a common mistake.",
     "sindhiTranslation": "ﻫﻲ ﻫڪ ﻋﺎم ﻏﻠﻄﻲ آﻫﻲ."
