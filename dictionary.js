@@ -152,7 +152,7 @@ const dictionaryEntries = [
     "word": "Academic",
     "pronunciation": "/ˌækəˈdemɪk/",
     "partOfSpeech": "adjective; noun",
-    "sindhiMeaning": "ﻋﻠﻤﻲ؛ اﺳﺘﺎد ﻳﺎ ﻋﺎﻟﻢ،ﺗﻌﻠﻴﻤﻲ",
+    "sindhiMeaning": " اﺳﺘﺎد ﻳﺎ ﻋﺎﻟﻢ ",
     "wordForms": "academically (adverb); academy (noun)",
     "example": "She is an excellent academic writer.",
     "sindhiTranslation": "هوءَ هڪ بهترين علمي ليکڪا آهي.",
