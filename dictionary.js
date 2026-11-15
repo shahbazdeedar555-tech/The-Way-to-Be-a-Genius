@@ -195,7 +195,7 @@ const dictionaryEntries = [
     "word": "Accidental",
     "pronunciation": "/ˌæksɪˈdentəl/",
     "partOfSpeech": "adjective",
-    "sindhiMeaning": "ﻏﻴﺮ ارادي،اﺗﻔﺎﻗﻲ",
+    "sindhiMeaning": "حادثاتي، اﺗﻔﺎﻗﻲ",
     "wordForms": "accidentally (adverb); accident (noun)",
     "example": "Breaking the glass was accidental.",
     "sindhiTranslation": "ﺷﻴﺸﻮ ڀڄڻ اﺗﻔﺎﻗﻲ ﻫﻮ."
