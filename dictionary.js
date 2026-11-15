@@ -140,14 +140,14 @@ const dictionaryEntries = [
   {
     "id": 13,
     "word": "Abuse",
-    "pronunciation": "/əˈbjuːs/ (verb); /əˈbjuːs/ (noun)",
+    "pronunciation": "Noun: /əˈbjuːs/; Verb: /əˈbjuːz/",
     "partOfSpeech": "noun; verb",
     "sindhiMeaning": "ﮔﺎرﮔﻨﺪ؛ ﻏﻠﻂ اﺳﺘﻌﻤﺎل ڪﺮڻ،ﺑﺪﺳﻠﻮڪﻲ",
     "wordForms": "abused; abused; abusing; abusive (adjective)",
     "example": "Never abuse your power.",
     "sindhiTranslation": "ﭘﻨﻬﻨﺠﻲ ﻃﺎﻗﺖ ﺟﻮ ڪڏﻫﻦ ﺑﻪ ﻏﻠﻂ اﺳﺘﻌﻤﺎل ﻧﻪ ڪﺮﻳﻮ."
   },
-  {
+  
     {
     "id": 14,
     "word": "Academic",
