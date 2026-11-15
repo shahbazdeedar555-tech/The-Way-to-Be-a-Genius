@@ -1,7 +1,5 @@
 
 
-const CACHE_NAME = "genius-book-v2";
-
 const FILES_TO_CACHE = [
     "/The-Way-to-Be-a-Genius/",
     "/The-Way-to-Be-a-Genius/index.html",
@@ -9,9 +7,10 @@ const FILES_TO_CACHE = [
     "/The-Way-to-Be-a-Genius/script.js",
     "/The-Way-to-Be-a-Genius/dictionary.js",
     "/The-Way-to-Be-a-Genius/manifest.json",
-    "/The-Way-to-Be-a-Genius/1.png",
-    "/The-Way-to-Be-a-Genius/2.png"
+    "/The-Way-to-Be-a-Genius/1.png"
 ];
+
+
 
 // Install Service Worker
 self.addEventListener("install", event => {
