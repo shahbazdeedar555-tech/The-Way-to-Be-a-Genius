@@ -1,13 +1,13 @@
 
 "icons": [
   {
-    "src": "/The-Way-to-Be-a-Genius/1.png",
+    "src": "/The-Way-to-Be-a-Genius/logo.png",
     "sizes": "192x192",
     "type": "image/png",
     "purpose": "any"
   },
   {
-    "src": "/The-Way-to-Be-a-Genius/1.png",
+    "src": "/The-Way-to-Be-a-Genius/logo-512.png",
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any"
