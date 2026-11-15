@@ -158,16 +158,17 @@ const dictionaryEntries = [
     "example": "She is an excellent academic writer.",
     "sindhiTranslation": "هوءَ هڪ بهترين علمي ليکڪا آهي."
   },
-  {
-    "id": 15,
-    "word": "Accept",
-    "pronunciation": "/əkˈsept/",
-    "partOfSpeech": "verb",
-    "sindhiMeaning": "ﻣڃڻ،ﻗﺒﻮل ڪﺮڻ",
-    "wordForms": "accepted; accepted; accepting; acceptance (noun)",
-    "example": "I accept your invitation.",
-    "sindhiTranslation": "ﻣﺎن ﺗﻨﻬﻨﺠﻲ دﻋﻮت ﻗﺒﻮل ڪﺮﻳﺎن ٿﻮ."
-  },
+
+    {
+  "id": 15,
+  "word": "Accept",
+  "pronunciation": "/əkˈsept/",
+  "partOfSpeech": "verb",
+  "sindhiMeaning": "قبول ڪرڻ، مڃڻ",
+  "wordForms": "accepts; accepted; accepted; accepting; acceptance (noun); acceptable (adjective)",
+  "example": "She accepted my invitation.",
+  "sindhiTranslation": "هن منهنجي دعوت قبول ڪئي."
+},
   {
     "id": 16,
     "word": "Access",
