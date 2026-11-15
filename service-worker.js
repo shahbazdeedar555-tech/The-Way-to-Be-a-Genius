@@ -1,5 +1,5 @@
 
-
+const CACHE_NAME = "genius-book-v2";
 const FILES_TO_CACHE = [
     "/The-Way-to-Be-a-Genius/",
     "/The-Way-to-Be-a-Genius/index.html",
