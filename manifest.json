@@ -1,15 +1,25 @@
 
-"icons": [
-  {
-    "src": "/The-Way-to-Be-a-Genius/logo.png",
-    "sizes": "192x192",
-    "type": "image/png",
-    "purpose": "any"
-  },
-  {
-    "src": "/The-Way-to-Be-a-Genius/logo-512.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any"
-  }
-]
+
+{
+  "name": "The Way to Be a Genius",
+  "short_name": "Genius Book",
+  "start_url": "/The-Way-to-Be-a-Genius/",
+  "scope": "/The-Way-to-Be-a-Genius/",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#173f35",
+  "icons": [
+    {
+      "src": "/The-Way-to-Be-a-Genius/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/The-Way-to-Be-a-Genius/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
