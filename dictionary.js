@@ -215,7 +215,7 @@ const dictionaryEntries = [
     "word": "Account",
     "pronunciation": "/əˈkaʊnt/",
     "partOfSpeech": "noun; verb",
-    "sindhiMeaning": "ﺑﻴﺎن؛ ﺣﺴﺎب ۾ آڻڻ، ﺣﺴﺎب،کﺎﺗﻮ",
+    "sindhiMeaning": "بيان، حساب، کاتو؛ حساب ۾ آڻڻ، وضاحت ڪرڻ",
     "wordForms": "accounted; accounted; accounting; accountant (noun)",
     "example": "Please open a bank account.",
     "sindhiTranslation": "ﻣﻬﺮﺑﺎﻧﻲ ڪﺮي ﺑﺌﻨڪ ۾ کﺎﺗﻮ کﻮﻟﻴﻮ."
