@@ -148,14 +148,15 @@ const dictionaryEntries = [
     "sindhiTranslation": "ﭘﻨﻬﻨﺠﻲ ﻃﺎﻗﺖ ﺟﻮ ڪڏﻫﻦ ﺑﻪ ﻏﻠﻂ اﺳﺘﻌﻤﺎل ﻧﻪ ڪﺮﻳﻮ."
   },
   {
+    {
     "id": 14,
     "word": "Academic",
     "pronunciation": "/ˌækəˈdemɪk/",
     "partOfSpeech": "adjective; noun",
-    "sindhiMeaning": " اﺳﺘﺎد ﻳﺎ ﻋﺎﻟﻢ ",
-    "wordForms": "academically (adverb); academy (noun)",
+    "sindhiMeaning": "علمي، تعليمي؛ علمي ماهر، محقق، يونيورسٽيءَ جو استاد",
+    "wordForms": "academically (adverb); academics (plural noun); academia (related noun)",
     "example": "She is an excellent academic writer.",
-    "sindhiTranslation": "هوءَ هڪ بهترين علمي ليکڪا آهي.",
+    "sindhiTranslation": "هوءَ هڪ بهترين علمي ليکڪا آهي."
   },
   {
     "id": 15,
